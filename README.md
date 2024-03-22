@@ -1,5 +1,5 @@
 # stemmatology
-This repo collected pre-processing scripts and files for stemmatology experiments
+This repo collects pre-processing scripts and files for stemmatology experiments
 ## Stemma Texts
 ### XML_to_collatex.ipynb
 This jupyter notebook requires collatex and graphviz python packages. (Installation Guides:http://interedition.github.io/collatex/pythonport.html  https://www.graphviz.org/download/ )
