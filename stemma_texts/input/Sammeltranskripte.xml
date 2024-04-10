@@ -1944,7 +1944,7 @@
                <p>no notes</p>
             </div>
          </div>
-         <div type="ms" corresp="lbl-add-30509">
+         <!-- <div type="ms" corresp="lbl-add-30509">
             <div type="info">
                <note type="place">London</note>
                <note type="origin">Eastern England</note>
@@ -1979,7 +1979,7 @@
             <div type="notes">
                <p>Old English</p>
             </div>
-         </div>
+         </div> -->
          <div type="ms" corresp="lbl-add-60628-1">
             <div type="info">
                <note type="place">London</note>
