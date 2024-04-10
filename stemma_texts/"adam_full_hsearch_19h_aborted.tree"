@@ -1,0 +1,119 @@
+#NEXUS 
+
+Begin trees;  [Treefile saved Wed Apr 10 10:24:05 2024]
+[!
+>Data file = adam.nex
+>Heuristic search settings:
+>  Optimality criterion = parsimony
+>    Character-status summary:
+>      Of 352 total characters:
+>        All characters are of type 'unord'
+>        All characters have equal weight
+>        26 characters are constant (proportion = 0.0738636)
+>        221 variable characters are parsimony-uninformative
+>        Number of parsimony-informative characters = 105
+>    Gaps are treated as "missing"
+>  Starting tree(s) obtained via stepwise addition
+>    Addition sequence: simple (reference taxon = tadam whafol70)
+>    Number of trees held at each step = 1
+>  Branch-swapping algorithm: tree-bisection-reconnection (TBR) with reconnection limit = 8
+>    Steepest descent option not in effect
+>  Initial 'Maxtrees' setting = 327000 (will be auto-increased by 100)
+>  Branches collapsed (creating polytomies) if maximum branch length is zero
+>  'MulTrees' option in effect
+>  No topological constraints in effect
+>  Trees are unrooted
+>
+>Heuristic search aborted (while swapping on tree #6115)
+>  Total number of rearrangements tried = 202692775
+>  Score of best tree(s) found = 493
+>  Number of trees retained = 1413185
+>  Time used = 19:09:35 (CPU time = 03:44:43.7)
+]
+	Translate
+		1 tadam_whafol70,
+		2 tadam_fbrricc236,
+		3 tadam_khaw247,
+		4 tadam_mbsclm2660,
+		5 tadam_ccc29,
+		6 tadam_pbnlat297,
+		7 tadam_cma1973,
+		8 tadam_lbm445,
+		9 tadam_won363,
+		10 tadam_dclbii33,
+		11 tadam_culdd116,
+		12 tadam_avr166,
+		13 tadam_mbsclm28173,
+		14 tadam_pbnlat15254,
+		15 tadam_won364,
+		16 tadam_lbladd606281,
+		17 tadam_lol390,
+		18 tadam_mbsclm8201,
+		19 tadam_CCC503,
+		20 tadam_kac696,
+		21 tadam_mjrgast2037,
+		22 tadam_lol490,
+		23 tadam_eufdeperfca2108,
+		24 tadam_tburps75iii,
+		25 tadam_pfllewe72,
+		26 tadam_hubsalix40,
+		27 tadam_pnkiiie5,
+		28 tadam_lub1314,
+		29 tadam_rsa6519,
+		30 tadam_nbl1183,
+		31 tadam_fsugermquart13,
+		32 tadam_pbnlat15637,
+		33 tadam_vbapallat1723,
+		34 tadam_abs583,
+		35 tadam_mbsclm314,
+		36 tadam_bsbtheollatfol64,
+		37 tadam_fub36a,
+		38 tadam_akbwettf9,
+		39 tadam_swltheolphil2122,
+		40 tadam_lblcotrollxiv12,
+		41 tadam_eufdeperfca2079,
+		42 tadam_vbapallat963,
+		43 tadam_pbm305,
+		44 tadam_CCC83,
+		45 tadam_mlm4989,
+		46 tadam_culdd812,
+		47 tadam_cmb183,
+		48 tadam_gflchaa16,
+		49 tadam_lbladd14819,
+		50 tadam_fbmplut1511,
+		51 tadam_pbnlat10431,
+		52 tadam_mbm89,
+		53 tadam_pba1234,
+		54 tadam_lblroy14bix,
+		55 tadam_mbsclm16223,
+		56 tadam_lblhar658,
+		57 tadam_CCC437,
+		58 tadam_bun762,
+		59 tadam_lubapel1,
+		60 tadam_whaguelf360helm,
+		61 tadam_penmasson71,
+		62 tadam_mrmmik6365,
+		63 tadam_pfllewe202,
+		64 tadam_pbnlat14435,
+		65 tadam_bwaw796,
+		66 tadam_nblmar26,
+		67 tadam_vbavatlat3782,
+		68 tadam_gflchaa4,
+		69 tadam_vbavatlat3783,
+		70 tadam_aux146,
+		71 tadam_pnkxxiiif204,
+		72 tadam_vbavatlat1972,
+		73 tadam_fbmplut2056,
+		74 tadam_ctcb154,
+		75 tadam_mbelat693,
+		76 tadam_pbnlat15467,
+		77 tadam_ctcb155,
+		78 tadam_won1548,
+		79 tadam_aux145,
+		80 tadam_mbsclm19414,
+		81 tadam_pbnlat5101,
+		82 tadam_abs128,
+		83 tadam_won378
+		;
+tree 'PAUP_1' = [&U] (1,((((((((((((2,37),66),58),((17,((44,78),((56,74),(62,65)))),((((32,77),51),(64,71)),82))),3),((9,15),((13,(27,29)),(69,70)))),(18,52)),(((((((((16,61),21),34),68),(36,45)),63),46),19),23)),(((6,(26,33)),((11,(14,42)),(((12,54),(((47,76),50),48)),43))),39)),((((5,10,24),((20,(28,79)),(((31,60),49),55))),57),38)),30),((((((4,8),83),(22,((25,67),53))),81),((7,73),35)),40)),((((41,59),72),80),75));
+End;
