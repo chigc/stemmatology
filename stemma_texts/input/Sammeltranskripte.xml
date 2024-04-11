@@ -12,6 +12,9 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+      <!-- früheres miro-Board mit den Bildern: https://miro.com/app/board/uXjVMAmlpC4=/
+           viel frühere RErfassungstabelle: https://docs.google.com/spreadsheets/d/1oonIa1ki8-wRM7hPSjqKz7W9XMOSScfBTKr23H31RYQ/edit#gid=0
+      -->
    </teiHeader>
    <text>
       <body>
@@ -3858,12 +3861,12 @@
                <note type="reading">Lukas Schievelbusch</note>
             </div>
             <div type="transcript" corresp="t-adam">
-               <p><ex>A</ex>Dam sexta die de anno terre fo<ex>r</ex>mat<ex>us</ex> in agro damasceno
+               <p>Adam sexta die de anno (?) terre fo<ex>r</ex>mat<ex>us</ex> in agro damasceno
                   et i<ex>n</ex> p<ex>ar</ex>adisum<lb/> unde 4<ex>or</ex> flu<ex>m</ex>i<ex>n</ex>a
-                     o<ex>r</ex>iunt<ex>ur</ex> t<ex>ra</ex>nslatus e<ex>st</ex> cu<ex>m</ex>
-                     fe<ex>m</ex>i<ex>n</ex>a de costa dormie<ex>n</ex>t<ex>i</ex>s f<ex>a</ex>cte
+                     o<ex>r</ex>iunt<ex>ur</ex> t<ex>ra</ex>nslat<ex>us</ex> e<ex>st</ex> cu<ex>m</ex>
+                     fe<ex>m</ex>i<ex>n</ex>a de costa do<ex>r</ex>mie<ex>n</ex>t<ex>is</ex> f<ex>a</ex>cte<ex>m</ex>
                      no<ex>m</ex>i<ex>n</ex>e<lb/> sic<ex>ut</ex> cet<ex>er</ex>is reb<ex>us</ex>
-                     i<ex>m</ex>po<ex>s</ex>ito d<ex>e</ex> chr<ex>ist</ex>o et eccl<ex>esi</ex>a
+                     i<ex>m</ex>po<ex>s</ex>ito d<ex>e</ex> chr<ex>ist</ex>o et ecc<ex>les</ex>ia
                      p<ex>ro</ex>phatass<ex>et</ex> et eide<ex>m</ex> de co<ex>m</ex>ede<ex>n</ex>do
                   pomo<lb/> acq<ex>ui</ex>euisset p<ex>ro</ex> disconue<ex>n</ex>ien<ex>tia</ex>
                      nuditat<ex>is</ex> fact<ex>i</ex>s perizomatib<ex>us</ex> a d<ex>omi</ex>no de
