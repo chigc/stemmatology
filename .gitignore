@@ -1,7 +1,7 @@
 
-/txt
+
 /input
-*.txt
+
 stemma_texts/cx2vartab.py
 stemma_texts/paup4a168_osx
 stemma_texts/txt/.DS_Store
