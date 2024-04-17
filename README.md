@@ -17,3 +17,4 @@ Nexus files for experiments in PAUP and splitstree
 
 ## Stemma Illustrations
 tbd
+tribes spreadsheet: https://docs.google.com/spreadsheets/d/1b7fyLaNLEgHSAxTDo9vZKiGJNnVajQmd14N3-CaFiEU/edit?usp=sharing
