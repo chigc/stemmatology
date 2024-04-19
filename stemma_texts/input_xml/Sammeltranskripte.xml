@@ -22,7 +22,7 @@
                <note type="place">Cambridge</note>
                <note type="origin">?</note>
                <note type="date">1200-1225</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno formatus. et in para<lb/>dysum unde .iiii<ex>or</ex>.
@@ -34,7 +34,7 @@
                      p<ex>ar</ex>adyso collocatis cherubym et fla<ex>m</ex><lb/>meo gladio post
                      increpatione<ex>m</ex> abiectus. de t<ex>er</ex>ra maledicta <lb/>insudore
                   uultus panem acquirit<ex>ur</ex></p>
-               <note>no notes</note>
+               <note>"acquieuisset. p[ro]" is written like this</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chaim ag<ex>ri</ex>cola dolens sua munera. et n<ex>on</ex> fr<ex>atr</ex>is
@@ -60,7 +60,7 @@
                <note type="place">Klosterneuburg</note>
                <note type="origin">Frankreich</note>
                <note type="date">13. Jh.</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno formatus. et in pa<lb/>radysu<ex>m</ex> un<ex>de</ex>
@@ -73,7 +73,7 @@
                   collocatis cherubym et fla<ex>m</ex>meo gladio p<ex>os</ex>t
                      incre<lb/>patione<ex>m</ex> abiectus. de t<ex>er</ex>ra maledicta insudore
                   uultus<lb/> panem acquirit<ex>ur</ex>.</p>
-               <note>no notes</note>
+               <note>"dum" is written like this</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chaim agricola dolens<lb/> sua munera. et n<ex>on</ex> fr<ex>atr</ex>is
@@ -99,7 +99,7 @@
                <note type="place">Heidelberg</note>
                <note type="origin">?</note>
                <note type="date">um 1300</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in ag<ex>ro</ex> damasceno for<ex>ma</ex>t<ex>us</ex>. et i<ex>n</ex>
@@ -109,13 +109,13 @@
                      sic<ex>ut</ex> et <supplied> </supplied> reb<ex>us</ex>
                   <lb/> i<ex>m</ex>posito. de ch<ex>risto</ex> et eccl<ex>esi</ex>a
                      p<ex>ro</ex>ph<ex>et</ex>asset. et eide<ex>m</ex> de comede<ex>nd</ex>o pomo
-                     acq<supplied> </supplied> p<ex>ro</ex><lb/> dis<ex>con</ex>ue<ex>n</ex>ientia
+                     acq<supplied></supplied> p<ex>ro</ex><lb/> dis<ex>con</ex>ue<ex>n</ex>ientia
                   nuditatis f<ex>ac</ex>tis p<ex>er</ex>yzomatib<ex>us</ex> a d<ex>omi</ex>no de
                      p<ex>ar</ex>adyso colloca<lb/>tis. cherubin et fla<ex>m</ex>meo gladio
                      p<ex>os</ex>t i<ex>n</ex>crepat<ex>i</ex>o<ex>ne</ex>m abiect<ex>us</ex> de
                      t<ex>er</ex>ra maled<ex>ict</ex>a<lb/> insudore uult<ex>us</ex> pane<ex>m</ex>
                      acquirit<ex>ur</ex>.</p>
-               <note>no notes</note>
+               <note>only "acq" to see due to the burn mark; probably "acquieuisset"</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chaim ag<ex>ri</ex>cola dole<ex>n</ex>s sua mun<ex>er</ex>a et no<ex>n</ex>
@@ -145,7 +145,7 @@
                <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
-               <p>Adam in agro damasceno format<ex>us</ex>. et i<ex>n</ex> pa<ex>ra</ex><lb/> disum
+               <p>Adam in agro damasceno format<ex>us</ex>. et i<ex>n</ex> pa<ex>ra</ex><lb/>disum
                   unde .iiii<ex>or</ex>. flumi<ex>n</ex>a oriunt<ex>ur</ex> trans<lb/>latus. cum
                   femine de costa dormientis f<ex>a</ex>cte<lb/> eua nomi<ex>n</ex>e imposito sicut
                   et cet<ex>er</ex>is rebus<lb/> de chr<ex>ist</ex>o et eccl<ex>es</ex>ia
@@ -215,7 +215,7 @@
                <note type="place">Vatican</note>
                <note type="origin">?</note>
                <note type="date">12. Jahrhundert</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno format<ex>us</ex>. et in paradi<lb/>sum un<ex>de</ex>
@@ -225,10 +225,11 @@
                      p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex> et eide<ex>m</ex> de comede<ex>n</ex>do
                   <lb/> pomo acquieuisset. p<ex>ro</ex> disco<ex>n</ex>uenientia nudi<ex>ta</ex>tis
                   factis p<ex>er</ex>y<lb/>zomatib<ex>us</ex>. a d<ex>omi</ex>no de paradiso.
-                  colloquatis cherubin. et fla<ex>m</ex>meo<lb/> gladio. post<supplied>ea</supplied>
+                  colloquatis cherubin. et fla<ex>m</ex>meo<lb/> gladio. post
                      increpat<ex>i</ex>one<ex>m</ex> abiectus de t<ex>er</ex>ra maledicta <lb/>
-                  insudorem uultus pane<ex>m</ex> adquirit<supplied>ur</supplied>.</p>
-               <note>no notes</note>
+                  insudore<del>m</del> uultus pane<ex>m</ex> adquirit<supplied>ur</supplied>.</p>
+               <note>"gladio. post" is written like this. The addition "post[ea]" was not made in any other transcription, therefore changed to "post"
+                  "insudorem" is written there, but "m" at the end is deleted in the text. Changed to "insudore" and "m" marked as deleted</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Caim ag<ex>ri</ex>cola dolens<lb/> sua munera et no<ex>n</ex>
@@ -255,7 +256,7 @@
                <note type="place">Österreichische Nationalbibliothek</note>
                <note type="origin">Mondsee</note>
                <note type="date">1180</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno format<ex>us</ex>. et i<ex>n</ex>
@@ -265,12 +266,12 @@
                      cet<ex>er</ex>is rebus inposito<lb/> de chr<ex>ist</ex>o et eccl<ex>esi</ex>a
                      p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex>. et eid<ex>e</ex>m de pomo comedendo
                      acq<ex>ui</ex>euisset. p<ex>ro</ex> disconuenien<lb/>tia nuditatis. factis
-                     p<ex>er</ex>yzhomatib<ex>us</ex> a d<ex>omi</ex>no de pa<ex>ra</ex>dyso
+                  p<ex>er</ex>y<supplied>z</supplied>homatib<ex>us</ex> a d<ex>omi</ex>no de pa<ex>ra</ex>dyso
                   collocatis cherubin et flam<lb/>meo gladio p<ex>ost</ex> increpatione<ex>m</ex>
                      abiect<ex>us</ex>. de t<ex>er</ex>ra maledicta i<ex>n</ex>sudore
                      uult<ex>us</ex> pane<ex>m</ex><lb/>
                   acq<ex>ui</ex>rit<supplied>ur</supplied>.</p>
-               <note>no notes</note>
+               <note>"peryzhomatibus" written like this</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Cain ag<ex>ri</ex>cola dolens sua mun<ex>er</ex>a et n<ex>on</ex>
@@ -296,7 +297,7 @@
                <note type="place">Linz</note>
                <note type="origin">?</note>
                <note type="date">1250</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno format<ex>us</ex> et in paradi<lb/>sum unde
@@ -306,10 +307,10 @@
                      p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex>. et eidem de<lb/> comedendo pomo
                      acq<ex>ui</ex><lb/>euiss<ex>et</ex> p<ex>ro</ex> disconuenientia
                   nudi<lb/>tatis. factis p<ex>er</ex>izomatib<ex>us</ex> a d<ex>omi</ex>no de
-                  paradiso collocatis<lb/> cherubim a flam<ex>m</ex>eo gladio p<ex>os</ex>t
+                  paradiso collocatis<lb/> cherubim et flam<ex>m</ex>eo gladio p<ex>os</ex>t
                      inc<ex>re</ex>pat<ex>i</ex>one<ex>m</ex> abiect<ex>us</ex>.<lb/> de
                      t<ex>er</ex>ra maledicta i<ex>n</ex>sudore uultus panem acquirit.</p>
-               <note>no notes</note>
+               <note>"cherubim a flammeo" is "cherubim et flammeo", since the interpreted "a" in the transcript is an abbreviation for "et"</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chain agricola dolens sua munera et n<ex>on</ex> f<ex>rat</ex>ris fuisse <lb/>
@@ -374,7 +375,7 @@
                <note type="place">Admont</note>
                <note type="origin">Frankreich <ex>etc.?</ex></note>
                <note type="date">Mitte 13. Jhd</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno format<ex>us</ex>. et i<ex>n</ex> parady<lb/>sum unde
@@ -422,7 +423,7 @@
                      t<ex>ra</ex>ns<lb/>lat<ex>us</ex> et femine de costa dormie<ex>n</ex>tis facte
                      <supplied> </supplied> i<ex>m</ex>posito sic<ex>ut</ex> et cete<ex>r</ex>is
                      reb<ex>us</ex> d<ex>e</ex> chr<ex>ist</ex>o et <lb/>
-                  <supplied> </supplied> et eidem comede<ex>n</ex>do pomo adquie<lb/>uissent.
+                  <supplied>ecc<ex>lesia</ex> p<ex>ro</ex>phetasset</supplied> et eidem comede<ex>n</ex>do pomo adquie<lb/>uissent.
                      p<ex>ro</ex> disco<ex>n</ex>uenie<ex>n</ex>tia nuditatis factis <lb/>
                      p<ex>er</ex>izomatib<ex>us</ex> a d<ex>omi</ex>no de p<ex>ar</ex>adiso
                   collocatis cheru<lb/>
@@ -431,7 +432,7 @@
                   <supplied>de</supplied> terra maledicta in insudore uultus panem
                      adquirit<ex>ur</ex>. Sequi<ex>tur</ex>
                   <ex>con</ex>seque<ex>n</ex>ter</p>
-               <note>no notes</note>
+               <note>"ecclesia prophetasset" is speculation because it is barely visible in the manuscript</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chaym agricola dole<ex>n</ex>s sua<lb/>munera et no<ex>n</ex> fratris fuisse <lb/>
@@ -458,7 +459,7 @@
                <note type="place">Vatican</note>
                <note type="origin">?</note>
                <note type="date">14. Jh.</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam i<ex>n</ex> agro damasceno for<ex>m</ex>at<ex>us</ex>. et i<ex>n</ex>
@@ -544,7 +545,7 @@
                <note type="place">Philadelphia</note>
                <note type="origin">England</note>
                <note type="date">ca 1480</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno forma<lb/>tus. et in paradisu<ex>m</ex> unde qua<lb/>tuor
@@ -767,7 +768,7 @@
                      fla<ex>m</ex>meo gladio post increpat<ex>i</ex>one<ex>m</ex> ab<lb/>iectus de
                      t<ex>er</ex>ra maled<ex>i</ex>c<ex>t</ex>a insudore uultus panem <lb/>
                   adquisiuit.</p>
-               <note>no notes</note>
+               <note>"adquisiuit" steht tatsächlich so da; wohl als 3.Pers.Sing.Perf. Form von "adquirere" (Form von "acquirere")</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chaim dolens sua munera et no<ex>n</ex>
@@ -793,7 +794,7 @@
                <note type="place">Aargauer Kantonsbibliothek</note>
                <note type="origin">Basel?</note>
                <note type="date">zweites Viertel des 14. Jh</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in ag<ex>ro</ex> damasceno format<ex>us</ex> et in p<ex>ar</ex>ady<lb/>sum
@@ -811,7 +812,7 @@
                      ma<supplied>le</supplied>di<ex>c</ex>t<ex>a</ex>m. insudore uult<ex>us</ex>
                      pic<ex>et</ex><ex>?</ex>
                   <lb/> I acquirit<ex>ur</ex>.</p>
-               <note>some speculation</note>
+               <note>some speculation; "impossuisset" probably correct </note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Caym ag<ex>ri</ex><lb/>cola dolens sua<lb/> mun<ex>er</ex>a et n<ex>on</ex>
@@ -1248,7 +1249,7 @@
                <note type="place">Paris Bibliothèque de l'Arsenal</note>
                <note type="origin">?</note>
                <note type="date">14. Jh</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro dama<lb/>sceno formatus. et<lb/> in p<ex>ar</ex>adisum un<ex>de</ex>
@@ -1450,16 +1451,16 @@
                <note type="place">Paris Bibliothèque nationale de France</note>
                <note type="origin">?</note>
                <note type="date">13. Jh</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno format<ex>us</ex> et i<ex>n</ex> p<ex>ar</ex>ady<lb/>sum
                      un<ex>de</ex> iiii<ex>or</ex> flumi<ex>n</ex>a oriunt<ex>ur</ex>
                      t<ex>ra</ex>nslat<ex>us</ex> cu<ex>m</ex> femi<lb/>na. de costa dormientis
-                     sic<ex>ut</ex> no<ex>m</ex>i<ex>n</ex>e. sicut et cet<ex>er</ex>is
+                     f<ex>ac</ex>te no<ex>m</ex>i<ex>n</ex>e. sicut et cet<ex>er</ex>is
                      re<lb/>b<ex>us</ex> inposito. de ch<ex>risto</ex>° et eccl<ex>es</ex>ia
                      p<ex>ro</ex>ph<ex>et</ex>asset. et eid<ex>em</ex> de comeden<lb/>do
-                     p<ex>^o</ex>moadquieuiss<ex>et</ex>. p<ex>ro</ex>
+                     p<ex>^o</ex>mo adquieuiss<ex>et</ex>. p<ex>ro</ex>
                      dis<ex>con</ex>uenie<ex>n</ex>tia nuditatis.<lb/> f<ex>a</ex>c<ex>t</ex>is
                      p<ex>er</ex>izomatib<ex>us</ex> a d<ex>omi</ex>no de p<ex>ar</ex>adyso
                      collocat<ex>is</ex> cheruby<ex>n</ex>
@@ -1545,8 +1546,8 @@
                   <lb/> a domino de p<ex>ar</ex>adiso collocatis<lb/> ch<ex>er</ex>ubin et
                      fla<ex>m</ex>meo gladio p<ex>os</ex>t<lb/> increpat<ex>i</ex>o<ex>ne</ex>m
                   abiectus de t<ex>er</ex>ra<lb/> maledicta insudore uultus<lb/> panem
-                     ad-quirit<ex>ur</ex>.</p>
-               <note>no notes</note>
+                     adquirit<ex>ur</ex>.</p>
+               <note>"ad-quirit" written like this, but "-" probably just subsequent connection between letters, so changed to "adquiritur" in transcript</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Caym ag<ex>ri</ex>cola dolens<lb/> sua munera et non<lb/> fr<ex>atr</ex>is fuisse
@@ -1633,7 +1634,7 @@
                      cu<ex>m</ex> gla<lb/>dio fla<ex>m</ex>meo et ??? de t<ex>er</ex>ra maledicta
                      i<ex>n</ex>sudore uult<ex>us</ex> et labore ma<lb/>nuum panem
                      acquirit<ex>ur</ex> ad? et toti potentati reliquit<ex>ur</ex>.</p>
-               <note>some speculations</note>
+               <note>some speculations; "folus" written like this</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chaym agricola dolens munera<lb/> sua et non fr<ex>atr</ex>is fuisse
@@ -1663,7 +1664,7 @@
                <note type="place">Cambridge</note>
                <note type="origin">Northern France</note>
                <note type="date">1200-1299</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam i<ex>n</ex> ag<ex>ro</ex> damasceno format<ex>us</ex>. et i<ex>n</ex>
@@ -1674,7 +1675,7 @@
                      cet<ex>er</ex>is reb<ex>us</ex> i<ex>m</ex>posita. de ch<ex>risto</ex>
                   <lb/> et ec<supplied>clesia p<ex>ro</ex>ph<ex>et</ex>asset</supplied> et
                      eide<ex>m</ex> de comedendo pomo acq<ex>ui</ex>euiss<ex>et</ex>
-                  <lb/> et disconuenientia nud<supplied>ditatis</supplied> f<ex>a</ex>c<ex>t</ex>is
+                  <lb/> et disconuenientia nud<supplied>itatis</supplied> f<ex>a</ex>c<ex>t</ex>is
                      p<ex>er</ex>izomatib<ex>us</ex>. a. d<ex>omino</ex>
                   <lb/> de p<ex>ar</ex>adiso collocatis ch<supplied>erubym</supplied> et
                      fla<ex>m</ex>meo gladio p<ex>os</ex>t <lb/>
@@ -2263,13 +2264,13 @@
                <note type="place">Berlin</note>
                <note type="origin">?</note>
                <note type="date">1400-1499</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>C Adam i<ex>n</ex> ag<ex>ro</ex> damas<lb/>ceno formatus et in p<ex>ar</ex>a<lb/>dysum unde
                      qua<ex>tuor</ex>. flu<ex>m</ex>ina<lb/> or<ex>i</ex>unt<ex>ur</ex>
                   t<ex>ra</ex>nslatus cu<ex>m</ex> fe<lb/>mi<ex>n</ex>e de costa dormie<ex>n</ex>tis
-                     f<ex>a</ex>c<ex>t</ex>e eua no<ex>m</ex>i<ex>n</ex>e inposito sic<lb/>ut et
+                  f<ex>a</ex>c<ex>t</ex>e eua no<ex>m</ex>i<ex>n</ex>e inposito si<lb/>cut et
                      cet<ex>er</ex>is cet<ex>er</ex>is reb<ex>us</ex> de <lb/> chr<ex>ist</ex>o et
                      ecc<ex>lesi</ex>a p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex> et eide<ex>m</ex>
                   <lb/> de comedendo pomo acq<lb/>
@@ -2279,7 +2280,7 @@
                   gladio<lb/> p<ex>os</ex>t inc<ex>re</ex>pat<ex>i</ex>one<ex>m</ex>
                   <lb/> abiectus. de t<ex>er</ex>ra male<lb/>dicta insudore uultus
                      pa<lb/>ne<ex>m</ex> acq<ex>u</ex>iusunt.</p>
-               <note>no notes</note>
+               <note>"ceteris" is written twice </note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>C Cayn ag<ex>ri</ex>cola dolens<lb/> sua mune<ex>r</ex>a et no<ex>n</ex> sue <lb/>
@@ -2635,7 +2636,7 @@
                <note type="place">Leipzig</note>
                <note type="origin">?</note>
                <note type="date">1275-1324</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in ag<ex>ro</ex> damasce<lb/>no form<ex>a</ex>t<ex>us</ex>. et i<ex>n</ex>
@@ -2647,7 +2648,7 @@
                      fe<ex>m</ex>i<ex>n</ex>e de costa dor<lb/>mientis f<ex>a</ex>c<ex>t</ex>e.
                      nomi<ex>n</ex>e sicut et cet<ex>er</ex>is i<ex>m</ex>po<ex>s</ex>ito. et post
                   dormici<lb/>onem p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex> de chr<ex>ist</ex>o et
-                     ecc<ex>lesi</ex>a. et de dilinuo? furo?. et de<lb/> indicio
+                     ecc<ex>lesi</ex>a. et de diluuio furo<ex>e</ex>. et de<lb/> indicio
                      p<ex>ro?</ex>ign<ex>i</ex>e et postea libis sius idicanit. et ???<lb/> rerepta
                   alpente lyu?te uultu<ex>?</ex> ugineu<ex>m</ex> et beta de come<lb/>de<ex>n</ex>do
                   pomo acq<ex>ui</ex>euiss<ex>et</ex>. p<ex>ro</ex>
@@ -2657,7 +2658,7 @@
                   gladio. post i<ex>n</ex>crepat<ex>i</ex>one<ex>m</ex> ab<lb/>iectus. de
                      t<ex>er</ex>ra maled<ex>i</ex>c<ex>t</ex>a i<ex>n</ex>sudore uult<ex>us</ex>
                      pane<ex>m</ex> acq<ex>ui</ex>rit<ex>ur</ex>.</p>
-               <note>much new text</note>
+               <note>much new text; does "diluuio furore" make sense here</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>C chayn ag<ex>ri</ex>cola dolens sua mun<ex>er</ex>a et n<ex>on</ex>
@@ -2710,14 +2711,14 @@
                <note type="place">München</note>
                <note type="origin">?</note>
                <note type="date">1300-1399</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
-               <p>Adam in ag<ex>ro</ex>° damasceno format<ex>us</ex> et in p<ex>ar</ex>adysum
+               <p>Adam in agr<ex>o</ex> damasceno format<ex>us</ex> et in p<ex>ar</ex>adysum
                      un<ex>de</ex> .iiii<ex>or</ex>. flu<supplied>mina</supplied> oriu<lb/>ntur
                      t<ex>ra</ex>nslat<ex>us</ex>. cu<ex>m</ex> femi<ex>n</ex>e de costa dormientis
                      f<ex>a</ex>c<ex>t</ex>e no<ex>m</ex>i<ex>n</ex>e imposito sic<ex>ut</ex> et
-                     cet<ex>er</ex>is<lb/> reb<ex>us</ex> de chr<ex>ist</ex>o et te
+                     cet<ex>er</ex>is<lb/> reb<ex>us</ex> de chr<ex>ist</ex>o et de
                   ecc<ex>les</ex>ia p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex> et e? de comedendo poma
                      acq<ex>ui</ex>euiss<ex>et</ex>. p<ex>ro</ex> dis<ex>con</ex>ue<lb/>nientia
                   nuditatis f<ex>a</ex>c<ex>t</ex>is p<ex>er</ex>izomatib<ex>us</ex> ?? de
@@ -2942,7 +2943,7 @@
                <note type="place">München</note>
                <note type="origin">?</note>
                <note type="date">1455-1458</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam i<ex>n</ex> agro damasceno. format<ex>us</ex> c et i<ex>n</ex>
@@ -2954,7 +2955,7 @@
                      ecc<ex>lesi</ex>a p<ex>ro</ex>phetass<ex>et</ex> et eid<ex>em</ex>
                   <lb/> d<ex>e</ex> c<ex>o</ex>med<ex>e</ex>ndo pomo
                      a<ex>c</ex>q<ex>ui</ex>euiss<ex>et</ex> p<ex>ro</ex>
-                     disc<ex>on</ex>ue<ex>n</ex>ien<ex>ti</ex>^a nuditatis f<ex>a</ex>cttis
+                     disc<ex>on</ex>ue<ex>n</ex>ien<ex>ti</ex>^a nuditatis f<ex>a</ex>ctis
                      p<ex>er</ex>izo<lb/>matib<ex>us</ex> a d<ex>omi</ex>no d<ex>e</ex>
                   p<ex>ar</ex>adiso. collocatis cherubi<ex>n</ex> et fla<ex>m</ex>meo gladio <lb/>
                      p<ex>ost</ex> inc<ex>re</ex>pat<ex>i</ex>o<ex>nem</ex> abiect<ex>us</ex>
@@ -3232,7 +3233,7 @@
                <note type="place">Firenze</note>
                <note type="origin">?</note>
                <note type="date">1226-1250</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno formatus. et in p<ex>ar</ex>adisu<ex>m</ex>. un<ex>de</ex>
@@ -3241,7 +3242,7 @@
                   facte no<ex>m</ex>i<ex>n</ex>e sic<ex>ut</ex>
                   <lb/> et cet<ex>er</ex>is reb<ex>us</ex> i<ex>m</ex>po<ex>s</ex>ito. d<ex>e</ex>
                      ch<ex>risto</ex> et eccl<ex>es</ex>ia p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex>.
-                     eteid<ex>em</ex> d<ex>e</ex> comed<ex>e</ex>ndo pomo
+                     et eid<ex>em</ex> d<ex>e</ex> comed<ex>e</ex>ndo pomo
                      acq<ex>ui</ex>e<lb/>uiss<ex>et</ex>. p<ex>ro</ex> disconuenientia nuditatis.
                      f<ex>a</ex>c<ex>t</ex>is p<ex>er</ex>izomatib<ex>us</ex>. a d<ex>omi</ex>no
                      d<ex>e</ex> p<ex>ar</ex>adiso collocatis che<lb/>rubin. et fla<ex>m</ex>meo
@@ -3276,18 +3277,18 @@
                <note type="place">Modena</note>
                <note type="origin">?</note>
                <note type="date">1501-1600</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno formatus a d<ex>omi</ex>no. et i<ex>n</ex>
                   <lb/> paradisu<ex>m</ex> unde quatuor flumina oriuntur t<ex>ra</ex>ns<lb/>latus
                   cum femine de costa dormie<ex>n</ex>tis<lb/> eua no<ex>m</ex>i<ex>n</ex>e imposito
                   sicut et ceteris reb<ex>us</ex> necnon?<lb/> de eccl<ex>es</ex>ia prophetasset. et
-                     eide<ex>m</ex> de comedendo<lb/> panes? pro disconuenientia <lb/> nuditatis
+                     eide<ex>m</ex> de comedendo<lb/> panes pro disconuenientia <lb/> nuditatis
                   factis p<ex>er</ex>izomatib<ex>us</ex> da pa<lb/>radiso collocatis cherubin et
                      fla<ex>m</ex>meo gladio<lb/> abiectus de terra maledicta insudore <lb/> uultus
                   panem acciperit<ex>ur</ex>.</p>
-               <note>no notes</note>
+               <note>panes makes no sense here, but "pomo" or "pomis" can't be read either. Probably more likely a "panes"</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chayn agricola dolens mu<lb/>nera sua et non fratris fu<lb/>isse reprobata a
@@ -3393,12 +3394,12 @@
                <note type="place">Cleveland</note>
                <note type="origin">Canterbury</note>
                <note type="date">1210-1229</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro damasceno formatus. et in p<ex>ar</ex>adysum<lb/> unde .iiii. flumina
                   oriuntur t<supplied>ran</supplied>slat<ex>us</ex>. cum femi<lb/>ne de costa
-                  dormientis facte eua nomi<supplied>n</supplied>eimp<supplied>os</supplied>ito
+                  dormientis facte eua nomi<supplied>n</supplied>e imp<supplied>os</supplied>ito
                   sicut<lb/> et ceteris rebus de chr<ex>ist</ex>o et eccl<ex>es</ex>ia
                      p<ex>ro</ex>ph<ex>et</ex>asset et eidem de<lb/> comedendo pomo acquieuisset
                      p<ex>ro</ex> disconuenientia nu<lb/>ditatis factis p<ex>er</ex>izomatibus a
@@ -3469,12 +3470,12 @@
                <note type="place">New Haven</note>
                <note type="origin">France</note>
                <note type="date">1225-1249</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p><supplied>A</supplied>dam in agro damasceno formatus. et in paradisu<ex>m</ex>
                   <lb/> un<ex>de</ex> .iiii<ex>or</ex>. flumina oriunt<ex>ur</ex> translatus. cum
-                  femine<lb/> de costa dormientis facte. nomine. sicut et ct<ex>er</ex>is <lb/>
+                  femine<lb/> de costa dormientis facte. nomine. sicut et cet<ex>er</ex>is <lb/>
                   rebus imposito. de chr<ex>ist</ex>o. et eccl<ex>es</ex>ia.
                      p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex>. et eide<ex>m</ex> de co<lb/>medendo
                   pomo acq<ex>ui</ex>euiss<ex>et</ex>. p<ex>ro</ex> disconuenientia nudi<lb/>tatis
@@ -3555,7 +3556,7 @@
                <note type="place">Philadelphia</note>
                <note type="origin">England</note>
                <note type="date">1480-1499</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam in agro forma<lb/>tus. et in paradisu<ex>m</ex> unde qua<lb/>tuor oriuntur
@@ -3566,7 +3567,7 @@
                      parizomatib<ex>us</ex>. a d<ex>omi</ex>no de paradiso col<ex>oc</ex>atis
                   cherubyn et fla<ex>m</ex>meo gladio atq<ex>ui</ex> uersa<lb/>tili. post
                      increpatione<ex>m</ex> eiectus: de terra ma<lb/>ledicta i<ex>n</ex>sudore
-                  uultus. cui panem adquirit<ex>ur</ex>.<lb/> sic<ex>ut</ex> et eius posteritas.</p>
+                  uultus. sui panem adquirit<ex>ur</ex>.<lb/> sic<ex>ut</ex> et eius posteritas.</p>
                <note>no notes</note>
             </div>
             <div type="transcript" corresp="t-cain">
@@ -3592,7 +3593,7 @@
                <note type="place">Vatikan</note>
                <note type="origin">Deutschland</note>
                <note type="date">1400-1499</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam i<ex>n</ex> agro damasceno for<ex>ma</ex>tus<lb/> et i<ex>n</ex>
@@ -3600,7 +3601,7 @@
                      t<ex>ra</ex>nslatus. cu<ex>m</ex> femine de costa<lb/> dormientis facte eua
                      nomi<ex>n</ex>e imposito<lb/> sic<ex>ut</ex> et cet<ex>er</ex>is rebus de
                      eccl<ex>es</ex>ia et chr<ex>ist</ex>o p<ex>ro</ex>phetass<ex>et</ex>
-                  <lb/> et eidem de comedndo pomo acquieuiss<ex>et</ex>
+                  <lb/> et eidem de comedendo pomo acquieuiss<ex>et</ex>
                   <lb/> p<ex>ro</ex> disco<ex>n</ex>uenie<ex>n</ex>tia nuditatis
                      f<ex>a</ex>c<ex>t</ex>is p<ex>er</ex>yzoma<lb/>tibus a domino de
                   p<ex>ar</ex>diso collocatis cheru<lb/>bin et flammeo gladio et p<ex>ost</ex>
@@ -3669,13 +3670,13 @@
                <note type="place">Vatikan</note>
                <note type="origin">?</note>
                <note type="date">1300-1399</note>
-               <note type="reading">Lukas Schievelbusch</note>
+               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
                <p>Adam i<ex>n</ex> agro damasceno for<ex>m</ex>at<ex>us</ex>. et i<ex>n</ex>
                      paradisu<ex>m</ex> un<ex>de</ex> .iiii<ex>or</ex>. flumi<ex>n</ex>a
                      oriu<ex>n</ex>t<ex>ur</ex> t<ex>ra</ex>nslat<ex>us</ex><lb/> cu<ex>m</ex>
-                  femine de costa dormie<ex>n</ex>tis facte etia<ex>m</ex> no<ex>m</ex>i<ex>n</ex>e
+                  femine de costa dormie<ex>n</ex>tis facte eua<ex>m</ex> no<ex>m</ex>i<ex>n</ex>e
                      sic<ex>ut</ex> et cet<ex>er</ex>is reb<ex>us</ex> i<ex>m</ex>po<ex>s</ex>ito de
                      chr<ex>ist</ex>o et<lb/> ??? p<ex>ro</ex>ph<ex>et</ex>asset. et eide<ex>m</ex>
                   de pomo comede<ex>n</ex>do a<supplied>c</supplied>q<ex>ui</ex>euiss<ex>et</ex>.
@@ -3686,7 +3687,7 @@
                   maledicta et sudore<lb/> uultus sui pane<ex>m</ex>
                      a<supplied>c</supplied>quirit<ex>ur</ex>. gen<ex>uit</ex>. ap° ta° ub ad
                      .iiii<ex>or</ex>. ?</p>
-               <note>no notes</note>
+               <note>probably "euam" is written here</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chay<ex>m</ex> ag<ex>ri</ex>cola dole<ex>n</ex>s sua munera et<lb/> no<ex>n</ex>
