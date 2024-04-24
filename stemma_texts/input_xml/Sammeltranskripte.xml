@@ -177,31 +177,27 @@
                <note type="place">Cambridge</note>
                <note type="origin">?</note>
                <note type="date">Fourth quarter of the 12th century</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Patrick Sahle, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
-               <p>Adam in agro damasceno formatus. et in p<ex>ar</ex>adisum iiii flumi<ex>n</ex>a
-                     oriunt<ex>ur</ex> t<ex>ra</ex>nslatus<lb/> cum femine de costa dormientis facte
-                  eua nomine imposita sicut et ceteris rebus<lb/> de chr<ex>ist</ex>o et
-                     eccl<ex>es</ex>ia proph<ex>et</ex>ass<ex>et</ex>. et eidem de comedendo pomo
-                     acquieuiss<ex>et</ex>. pro disconue<lb/>nientiam nuditatis factis
-                  p<ex>er</ex>izomatibus a d<ex>omi</ex>no de paradiso collocatis cherubin et <lb/>
-                  flammeo gladio post increpationem abiectus de terra maledicta insudore
-                     uult<ex>us</ex>
+               <p>Adam in agro damasceno formatus. et in p<ex>ar</ex>adisum iiii flumi<ex>n</ex>a oriunt<ex>ur</ex> t<ex>ra</ex>nslatus
+                  <lb/> cum femine de costa dormientis facte eua nomine imposita sicut et ceteris rebus
+                  <lb/> de chr<ex>ist</ex>o et eccl<ex>es</ex>ia proph<ex>et</ex>ass<ex>et</ex>. et eidem de comedendo pomo acquieuiss<ex>et</ex>. pro disconue
+                  <lb/>nientiam nuditatis factis p<ex>er</ex>izomatibus a d<ex>omi</ex>no de paradiso collocatis cherubin et
+                  <lb/> flammeo gladio post increpationem abiectus de terra maledicta insudore uult<ex>us</ex>
                   <lb/> panem acquirit<ex>ur</ex>.</p>
                <note>no notes</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Caim ag<ex>ri</ex>cola dolens sua munera et no<ex>n</ex> fr<ex>atr</ex>is fuisse
-                  <lb/> rep<ex>ro</ex>bata licet a d<ex>omi</ex>no increpatus fr<ex>atr</ex>rem
-                  septiformi pec<lb/>cato interfecit qui postea uag<ex>us</ex> et instabilis super
+                  <lb/> rep<ex>ro</ex>bata licet a d<ex>omi</ex>no increpatus fr<ex>atr</ex>rem septiformi pec
+                  <lb/>cato interfecit qui postea uag<ex>us</ex> et instabilis super
                   <lb/> terram factus postq<ex>ua</ex>m a d<ex>omi</ex>no est maledictus.</p>
                <note>no notes</note>
             </div>
             <div type="transcript" corresp="t-seth">
-               <p>Istu<ex>m</ex> seth genuit adam ducentesimo anno etatis sue<lb/> quor<ex>um</ex>
-                     t<ex>ame</ex>n centum p<ex>re</ex>termisit moyses q<ex>ui</ex>b<ex>us</ex> adam
-                     lux<ex>it</ex> abel.</p>
+               <p>Istu<ex>m</ex> seth genuit adam ducentesimo anno etatis sue
+                  <lb/> quor<ex>um</ex> t<ex>ame</ex>n centum p<ex>re</ex>termisit moyses q<ex>ui</ex>b<ex>us</ex> adam lux<ex>it</ex> abel.</p>
                <note>no notes</note>
             </div>
             <div type="notes">
@@ -4026,24 +4022,97 @@
                <note>no notes</note>
             </div>
             <div type="transcript" corresp="t-cain">
-               <p>Chaym ag<ex>ri</ex>cola dolens sua mun<ex>er</ex>a. et <lb/>n<ex>on</ex>
-                     fr<ex>atr</ex>is fuisse rep<ex>ro</ex>bata. licet a d<ex>omi</ex>no incre
+               <p>Chaym ag<ex>ri</ex>cola dolens sua mun<ex>er</ex>a. et
+                  <lb/> n<ex>on</ex> fr<ex>atr</ex>is fuisse rep<ex>ro</ex>bata. licet a d<ex>omi</ex>no incre
                   <lb/>patus fr<ex>atr</ex>em su<supplied>u</supplied>m septiformi pecc<ex>at</ex>o
-                  <lb/>interfecit qui postea uagus et instabil<ex>is</ex> super <lb/>t<ex>er</ex>ram
-                  factus postqua<ex>m</ex> a domino est maledictus.</p>
+                  <lb/> interfecit qui postea uagus et instabil<ex>is</ex> super
+                  <lb/> t<ex>er</ex>ram factus postqua<ex>m</ex> a domino est maledictus.</p>
                <note/>
             </div>
             <div type="transcript" corresp="t-seth">
                <p>Istum seth genuit ada<ex>m</ex>
-                  <lb/>cc°.. anno etatis sue <lb/>q<ex>uor</ex>um t<ex>ame</ex>n centum
-                  p<ex>re</ex>ter <lb/>misit moyses quibus adam <lb/>luxit abel.</p>
+                  <lb/>cc°. xxx. anno etatis sue
+                  <lb/> q<ex>uor</ex>um t<ex>ame</ex>n centum p<ex>re</ex>ter
+                  <lb/>misit moyses quibus adam
+                  <lb/> luxit abel.</p>
                <note/>
             </div>
             <div type="notes">
                <p>no notes</p>
             </div>
          </div>
-
+         <div type="ms" corresp="vbb-342">
+            <div type="info">
+               <note type="place">Vicenza</note>
+               <note type="origin">?</note>
+               <note type="date">1275-1324</note>
+               <note type="reading">Johannes Ioannu</note>
+            </div>
+            <div type="transcript" corresp="t-adam">
+               <p>Adam i<ex>n</ex> ag<ex>ro</ex> damasceno format<ex>us</ex>. et in p<ex>ar</ex>adisu<ex>m</ex> unde.
+               <lb/> iiii. flu<ex>m</ex>ina oriu<ex>n</ex>tur t<ex>ra</ex>nslat<ex>us</ex>. cu<ex>m</ex> femi<ex>n</ex>e de costa dor
+                  <lb/>mie<ex>n</ex>tis f<ex>a</ex>cte no<ex>m</ex>ine sic<ex>ut</ex> et cet<ex>er</ex>is reb<ex>us</ex> i<ex>m</ex>po<ex>s</ex>ito. de chr<ex>ist</ex>o et
+                  <lb/> e<ex>c</ex>cl<ex>es</ex>ia p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex> et eid<ex>em</ex> de comeden<ex>do</ex> pomo acq<ex>ui</ex>euiss<ex>et</ex> p<ex>ro</ex>
+                  <lb/> dis<ex>con</ex>ue<ex>n</ex>ientia auditatis factis p<ex>er</ex>yzomatib<ex>us</ex> a d<ex>omi</ex>no
+                  <lb/> de p<ex>ar</ex>adiso collocatis cheruby<ex>n</ex> et flameo gladio p<ex>os</ex>t
+                  <lb/> i<ex>n</ex>crepatione<ex>m</ex> eiectus. de te<ex>r</ex>ra malidicta i<ex>n</ex>sudor<ex>e</ex>
+                  <lb/> uult<ex>us</ex> pane<ex>m</ex> acquirit.</p>
+               <note>looks like "auditatis" is written here, but "nuditatis" would make much more sense. Probably a typo.</note>
+            </div>
+            <div type="transcript" corresp="t-cain">
+               <p>Chaym ag<ex>ri</ex>cola dole<ex>n</ex>s sua mun<ex>er</ex>a <supplied>et</supplied> n<ex>on</ex> fr<ex>atr</ex>is fuisse
+                  <lb/> rep<ex>ro</ex>bata. licet a d<ex>omi</ex>no i<ex>n</ex>crepat<ex>us</ex> fr<ex>atr</ex>em septifor<ex>m</ex>i pe
+                  <lb/>ccato i<ex>n</ex>t<ex>er</ex>fec<ex>it</ex>. postea uag<ex>us</ex> et i<ex>n</ex>stabil<ex>is</ex> s<ex>upe</ex>r t<ex>er</ex>ra<ex>m</ex> f<ex>a</ex>ct<ex>u</ex>s
+                  <lb/> est. p<ex>os</ex>tq<ex>uam</ex> a d<ex>om</ex>ino e<ex>st</ex> maledictus.</p>
+               <note/>
+            </div>
+            <div type="transcript" corresp="t-seth">
+               <p>Istu<ex>m</ex> seth genuit ada<ex>m</ex>. cc. xxx°. a<ex>n</ex>no etatis sue.
+                  <lb/> qu<ex>orum</ex> t<ex>ame</ex>n. c. p<ex>re</ex>t<ex>er</ex>mittit moyses. q<ex>ui</ex>b<ex>us</ex> luxit abel.</p>
+               <note/>
+            </div>
+            <div type="notes">
+               <p>no notes</p>
+            </div>
+         </div>
+         <div type="ms" corresp="bas-4">
+            <div type="info">
+               <note type="place">Bologna</note>
+               <note type="origin">?</note>
+               <note type="date">1200-1299</note>
+               <note type="reading">Johannes Ioannu</note>
+            </div>
+            <div type="transcript" corresp="t-adam">
+               <p>Ada<ex>m</ex> i<ex>n</ex> ag<ex>ro</ex> damasceno. format<ex>us</ex>. et i<ex>n</ex> p<ex>ar</ex>adisu<ex>m</ex>
+                  <lb/> un<ex>de</ex>. iiii<ex>or</ex>. flumina oriunt<ex>ur</ex>. t<ex>ra</ex>nslat<ex>us</ex>. cum
+                  <lb/> femine de costa. dormientis f<ex>a</ex>cte. no<ex>m</ex>i<ex>n</ex>e
+                  <lb/> sic<ex>ut</ex> et cet<ex>er</ex>is. reb<ex>us</ex> i<ex>m</ex>posito. de. chr<ex>isto</ex>. e<ex>cclesi</ex>a. p<ex>ro</ex>ph<ex>et</ex>asset.
+                  <lb/> et eid<ex>em</ex> <ex>de</ex>comede<ex>n</ex>do pomo acq<ex>ui</ex>euiss<ex>et</ex> p<ex>ro</ex> dis<ex>con</ex>ueni
+                  <lb/>entia. nuditatis f<ex>a</ex>c<ex>t</ex>is p<ex>er</ex>izomatib<ex>us</ex> a d<ex>omi</ex>no. de p<ex>ar</ex>adiso.
+                  <lb/> collocatis. cherubin, flam<ex>me</ex>o gladio p<ex>ost</ex> inc<ex>re</ex>patione<ex>m</ex> abi<ex>ec</ex>t<ex>us</ex>.
+                  <lb/> de t<ex>er</ex>ra maled<ex>ic</ex>ta in sudore uult<ex>us</ex> pane<ex>m</ex> acquirit.</p>
+               <note></note>
+            </div>
+            <div type="transcript" corresp="t-cain">
+               <p>Chaym ag<ex>ri</ex>cola dolens. sua
+                  <lb/> mun<ex>er</ex>a et <supplied>n<ex>on</ex></supplied> fr<ex>atr</ex>is fuisse.
+                  <lb/> rep<ex>ro</ex><supplied>ba</supplied>ta. licet a d<ex>omi</ex>no.
+                  <lb/> increpat<ex>us</ex>. fr<ex>atr</ex>em septifor
+                  <lb/>mi pec<ex>cat</ex>o int<supplied><ex>er</ex></supplied>fec<ex>it</ex>. p<ex>ost</ex>ea ua
+                  <lb/>g<ex>us</ex> et instabil<ex>is</ex> <ex>su</ex>p<ex>e</ex>r t<ex>er</ex>ram
+                  <lb/> f<ex>a</ex>c<ex>tu</ex>s est p<ex>ost</ex>q<ex>uam</ex>. a d<ex>omi</ex>no e<ex>st</ex> male
+                  <lb/>d<ex>i</ex>c<ex>tu</ex>s.</p>
+               <note>very difficult to read in parts, so some passages are uncertain</note>
+            </div>
+            <div type="transcript" corresp="t-seth">
+               <p>Istu<ex>m</ex> seth genuit ada<ex>m</ex>. cc°. xxx°. annos. etatis sue. quor<ex>um</ex>
+                  <lb/> t<ex>ame</ex>n. centu<ex>m</ex> pret<ex>er</ex>mittit. moyses. q<ex>ui</ex>b<ex>us</ex> lux<ex>it</ex> abel.</p>
+               <note/>
+            </div>
+            <div type="notes">
+               <p>no notes</p>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
