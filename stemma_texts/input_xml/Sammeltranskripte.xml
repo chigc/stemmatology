@@ -405,42 +405,48 @@
                <note type="place">Admont</note>
                <note type="origin">?</note>
                <note type="date">1400-1499</note>
-               <note type="reading">Lukas Schievelbusch, Patrick Sahle</note>
+               <note type="reading">Lukas Schievelbusch, Patrick Sahle, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
-               <p>Adam i<ex>n</ex> agro damasceno format<ex>us</ex> et in pa<lb/>radisu<ex>m</ex>
-                  unde q<ex>ua</ex>ttuor flumina oriu<ex>n</ex>t<ex>ur</ex>
-                     t<ex>ra</ex>ns<lb/>lat<ex>us</ex> et femine de costa dormie<ex>n</ex>tis facte
-                     <supplied> </supplied> i<ex>m</ex>posito sic<ex>ut</ex> et cete<ex>r</ex>is
-                     reb<ex>us</ex> d<ex>e</ex> chr<ex>ist</ex>o et <lb/>
-                  <supplied>ecc<ex>lesia</ex> p<ex>ro</ex>phetasset</supplied> et eidem
-                     comede<ex>n</ex>do pomo adquie<lb/>uissent. p<ex>ro</ex>
-                     disco<ex>n</ex>uenie<ex>n</ex>tia nuditatis factis <lb/>
-                     p<ex>er</ex>izomatib<ex>us</ex> a d<ex>omi</ex>no de p<ex>ar</ex>adiso
-                  collocatis cheru<lb/>
-                  <supplied> </supplied> et fla<ex>m</ex>eo gladio post inc<ex>re</ex>pationem
-                     abiect<ex>us</ex>
-                  <supplied>de</supplied> terra maledicta in insudore uultus panem
-                     adquirit<ex>ur</ex>. Sequi<ex>tur</ex>
-                  <ex>con</ex>seque<ex>n</ex>ter</p>
+               <p>Adam i<ex>n</ex> agro damasceno format<ex>us</ex> et in pa
+                  <lb/>radisu<ex>m</ex> un<ex>de</ex> q<ex>uat</ex>tuor flumina oriu<ex>n</ex>t<ex>ur</ex> t<ex>ra</ex>ns
+                  <lb/>lat<ex>us</ex> et femine de costa dormie<ex>n</ex>tis facte
+                  <lb/> <supplied>eua no<ex>m</ex>i<ex>n</ex>e</supplied> i<ex>m</ex>posito sic<ex>ut</ex> et cete<ex>r</ex>is reb<ex>us</ex> d<ex>e</ex> chr<ex>ist</ex>o et
+                  <lb/> <supplied>ecc<ex>lesia</ex> p<ex>ro</ex>phetasset</supplied> et eidem comede<ex>n</ex>do pomo adquie
+                  <lb/>uissent. p<ex>ro</ex> disco<ex>n</ex>uenie<ex>n</ex>tia nuditatis factis
+                  <lb/> p<ex>er</ex>izomatib<ex>us</ex> a d<ex>omi</ex>no de p<ex>ar</ex>adiso collocatis cheru
+                  <lb/><supplied>bin</supplied> et fla<ex>m</ex>eo gladio post inc<ex>re</ex>pationem abiect<ex>us</ex>
+                  <lb/> <supplied>de</supplied> terra maledicta in insudore uultus panem
+                  <lb/> adquirit<ex>ur</ex>. Sequi<ex>tur</ex> <ex>con</ex>seque<ex>n</ex>ter</p>
                <note>"ecclesia prophetasset" is speculation because it is barely visible in the
-                  manuscript</note>
+                  manuscript; the same applies for "eua nomine" and the ending of "cherubin"</note>
             </div>
             <div type="transcript" corresp="t-cain">
-               <p>Chaym agricola dole<ex>n</ex>s sua<lb/>munera et no<ex>n</ex> fratris fuisse <lb/>
-                     rep<ex>ro</ex>bata licet a deo increpa<lb/>tus fr<ex>atr</ex>em suu<ex>m</ex>
-                  septiformi pe<ex>ccat</ex>o interfecit et postea uagus et<lb/>instabilis
-                     sup<ex>er</ex> terra<ex>m</ex> factus est po<ex>st</ex><lb/>qua<ex>m</ex> a
-                     d<ex>omi</ex>no est maledictus.</p>
+               <p>Chaym agricola dole<ex>n</ex>s sua
+                  <lb/> munera et no<ex>n</ex> fratris fuisse
+                  <lb/> rep<ex>ro</ex>bata licet a deo increpa
+                  <lb/>tus fr<ex>atr</ex>em suu<ex>m</ex> septiformi p<ex>e</ex>c<ex>ca</ex>to
+                  <lb/> interfecit et postea uagus et
+                  <lb/> instabilis sup<ex>er</ex> terra<ex>m</ex> factus est po<ex>st</ex>
+                  <lb/>qua<ex>m</ex> a d<ex>omi</ex>no est maledictus.</p>
                <note>no notes</note>
             </div>
             <div type="transcript" corresp="t-seth">
-               <p>Istu<ex>m</ex> Seth<lb/> genuit<lb/> ada<ex>m</ex> . cc°.<lb/> xxxmo<lb/> anno
-                  eta<lb/>tis sue<lb/> quo<ex>rum</ex> ta<lb/>me<ex>n</ex> centu<ex>m</ex>
-                     p<ex>re</ex>t<ex>er</ex>misit moy<lb/>ses quib<ex>us</ex>
-                  ada<ex>m</ex><lb/>luxit abel. et Seth iuxit annis .dcccc.xii Enos vixit .dccccos ?
-                  Caynan dcccc x annos</p>
-               <note>no notes</note>
+               <p>Istu<ex>m</ex> Seth
+                  <lb/> genuit
+                  <lb/> ada<ex>m</ex>. cc<ex>mo</ex>.
+                  <lb/> xxx<ex>mo</ex>
+                  <lb/> anno eta
+                  <lb/>tis sue
+                  <lb/> quo<ex>rum</ex> ta
+                  <lb/>me<ex>n</ex> centu<ex>m</ex>
+                  <lb/> p<ex>re</ex>t<ex>er</ex>misit moy
+                  <lb/>ses quib<ex>us</ex> ada<ex>m</ex>
+                  <lb/>luxit abel. Et Seth
+                  <lb/> iuxit annis. dcccc. xii
+                  <lb/> Enos vixit .dcccc<ex>os</ex> <supplied>ii.</supplied>
+                  <lb/> Caynan. dcccc. x a<ex>n</ex>nos</p>
+               <note>Starting with "Et Seth" the ending is mostly speculation</note>
             </div>
             <div type="notes">
                <p>no notes</p>
@@ -454,19 +460,12 @@
                <note type="reading">Lukas Schievelbusch, Johannes Ioannu, Patrick Sahle</note>
             </div>
             <div type="transcript" corresp="t-adam">
-               <p>Adam i<ex>n</ex> agro damasceno for<ex>m</ex>at<ex>us</ex>. et i<ex>n</ex>
-                     paradisu<ex>m</ex> un<ex>de</ex> .iiii.or flumi<ex>n</ex>a
-                     oriu<ex>n</ex>t<ex>ur</ex> t<ex>ra</ex>nslat<ex>us</ex>.<lb/> Cu<ex>ius</ex>
-                  femine de costa dormie<ex>n</ex>tis facte euam no<ex>m</ex>i<ex>n</ex>e
-                     sic<ex>ut</ex> et cete<ex>r</ex>is reb<ex>us</ex> i<ex>m</ex>po<ex>s</ex>ito de
-                     chr<ex>ist</ex>o et<lb/> ecc<ex>lesia</ex> p<ex>ro</ex>ph<ex>et</ex>asset. et
-                     eide<ex>m</ex> de pomo comede<ex>n</ex>do aq<ex>ui</ex>euiss<ex>et</ex>.
-                     p<ex>ro</ex> disconue<ex>n</ex>ie<ex>n</ex>tiam nuditatis factis
-                     p<ex>er</ex>yz<ex>o</ex>matibus. a d<ex>omin</ex>o<lb/> de p<ex>ar</ex>adiso
-                  colatis cheruby<ex>m</ex> et flameo gladio post increpatio<ex>n</ex>em abiectus.
-                     d<ex>e</ex> terra maledicta et sudore<lb/> uultus sui pane<ex>m</ex>
-                     aquirit<ex>ur</ex>. </p>
-               <note>no notes</note>
+               <p>Adam i<ex>n</ex> agro damasceno for<ex>m</ex>at<ex>us</ex>. et i<ex>n</ex> paradisu<ex>m</ex> un<ex>de</ex>. iiii<ex>or</ex>. flumi<ex>n</ex>a oriu<ex>n</ex>t<ex>ur</ex> t<ex>ra</ex>nslat<ex>us</ex>.
+                  <lb/> Cu<ex>m</ex> femine de costa dormie<ex>n</ex>tis facte eua<ex>m</ex> no<ex>m</ex>i<ex>n</ex>e sic<ex>ut</ex> et cete<ex>r</ex>is reb<ex>us</ex> i<ex>m</ex>po<ex>s</ex>ito de chr<ex>ist</ex>o et
+                  <lb/> ecc<ex>lesia</ex> p<ex>ro</ex>ph<ex>et</ex>asset. et eide<ex>m</ex> de pomo comede<ex>n</ex>do aq<ex>ui</ex>euiss<ex>et</ex>. p<ex>ro</ex> disconue<ex>n</ex>ie<ex>n</ex>tia<ex>m</ex> nuditatis factis p<ex>er</ex>yz<ex>o</ex>matib<ex>us</ex>. a d<ex>omin</ex>o
+                  <lb/> de p<ex>ar</ex>adiso colatis cheruby<ex>m</ex> et flameo gladio post increpatio<ex>n</ex>e<ex>m</ex> abiectus. d<ex>e</ex> terra maledicta et sudore
+                  <lb/> uultus sui pane<ex>m</ex> aquirit<ex>ur</ex>.</p>
+               <note>"cuius femine" here more likely "cum femine" because the same abbr. is later transcribed as "m"; text goes on</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chay <ex>m</ex> ag<ex>ri</ex>cola dole<ex>n</ex>s sua munera et<lb/> no<ex>n</ex>
