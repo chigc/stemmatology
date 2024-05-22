@@ -1,7 +1,7 @@
 #nexus 
 [Tribes Graphic Feature Test]
 begin data;
-dimensions ntax=147 nchar=29;
+dimensions ntax=148 nchar=29;
 format symbols="01" missing=? gap=-;
 matrix	
 abs128 10000010000010110000100010011
