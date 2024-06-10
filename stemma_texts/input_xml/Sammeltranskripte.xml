@@ -815,21 +815,33 @@
                <note type="place">Fondation Martin Bodmer</note>
                <note type="origin">française ou anglaise?</note>
                <note type="date">middle of the 13th century</note>
-               <note type="reading">Lukas Schievelbusch, Johannes Ioannu</note>
+               <note type="reading">Agnese Macchiarelli, Lukas Schievelbusch, Johannes Ioannu</note>
             </div>
             <div type="transcript" corresp="t-adam">
-               <p>Adam i<ex>n</ex> ag<ex>ro</ex> damasceno format<ex>us</ex>. et i<ex>n</ex> paradisu<ex>m</ex> unde
-                  <lb/> .4<ex>or</ex>. flumina oriu<ex>n</ex>t<ex>ur</ex> tra<ex>n</ex>slat<ex>us</ex> e<ex>st</ex>. s. Gyon. phison.
-                  <lb/> Tygris. Eufrates. cum femi<ex>n</ex>e de costa dormien
-                  <lb/>tis f<ex>a</ex>c<ex>t</ex>e eua no<ex>m</ex>i<ex>n</ex>e i<ex>m</ex>posito sic<ex>ut</ex> et cet<ex>er</ex>is reb<ex>us</ex>. de
-                  <lb/> chr<ex>ist</ex>o et ecc<ex>lesi</ex>a p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex>. et eidem de comede<ex>n</ex>
-                  <lb/>do pomo adq<ex>ui</ex>euiss<ex>et</ex>. p<ex>ro</ex> disco<ex>n</ex>uenien
-                  <lb/>tia nuditatis f<ex>a</ex>c<ex>t</ex>is p<ex>er</ex>yzomatib<ex>us</ex> a
-                  <lb/> d<ex>omi</ex>no. de p<ex>ar</ex>adiso collocatis ch<ex>er</ex>ubim
-                  <lb/> et fla<ex>m</ex>meo gladio p<ex>ost</ex> inc<ex>re</ex>pat<ex>i</ex>o<ex>ne</ex>m ei<ex>ec</ex>
-                  <lb/>tus. de t<ex>er</ex>ra maled<ex>ict</ex>a i<ex>n</ex>sudore uul
-                  <lb/>tus pane<ex>m</ex> adq<ex>ui</ex>rit.</p>
-               <note>text continues</note>
+               <p>Adam i<ex>n</ex> ag<ex>ro</ex> damasceno format<ex>us</ex>. et i<ex>n</ex>
+                  paradisu<ex>m</ex> unde<lb/> .4<ex>or</ex>. flumina oriu<ex>n</ex>t<ex>ur</ex>
+                  tra<ex>n</ex>slat<ex>us</ex> e<ex>st</ex> s<ex>cilicet</ex> gyon. phison.<lb/>
+                  tygris. eufrates. cum. femi<ex>n</ex>e de costa dormientis f<ex>a</ex>c<ex>t</ex>e
+                  eua no<ex>m</ex>i<ex>n</ex>e i<ex>m</ex>po<ex>s</ex>ito sic<ex>ut</ex> et
+                  cet<ex>er</ex>is reb<ex>us</ex>. de<lb/> chr<ex>ist</ex>o et ecc<ex>lesi</ex>a
+                  p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex>. et eidem de comede<ex>n</ex><lb/>do pomo
+                  adq<ex>ui</ex>euiss<ex>et</ex>. p<ex>ro</ex> disco<ex>n</ex>uenien<lb/>cia
+                  nuditatis f<ex>a</ex>c<ex>t</ex>is p<ex>er</ex>yzomatib<ex>us</ex> a<lb/>
+                  d<ex>omi</ex>n<ex>o</ex>. de p<ex>ar</ex>adiso collocatis ch<ex>er</ex>ubim<lb/>
+                  et fla<ex>m</ex>meo gladio p<ex>ost</ex> inc<ex>re</ex>pac<ex>i</ex>o<ex>ne</ex>m
+                  ei<ex>ec</ex><lb/>tus. de t<ex>er</ex>ra maled<ex>i</ex>c<ex>t</ex>a i<ex>n</ex>
+                  sudore uul<lb/>tus pane<ex>m</ex> adq<ex>ui</ex>rit. t<ex>ame</ex>n p<ex>os</ex>tremo
+                  et<lb/> min<ex>us</ex> p<ex>ec</ex>cau<ex>it</ex> q<ex>uia</ex> i<ex>n</ex> uno
+                  s<ex>cilicet</ex> uetit<ex>u</ex>m co<ex>m</ex><lb/>medit. Vn<ex>de</ex>
+                  q<ex>uia</ex> i<ex>n</ex> solo esu p<ex>ec</ex>cau<ex>it</ex>. i<ex>n</ex>
+                  la<lb/>bore sibi q<ex>ue</ex>re<ex>n</ex>di edulii punit<ex>us</ex> est.<lb/>
+                  Mul<ex>ie</ex>r. p<ex>ost</ex> serpe<ex>n</ex>te<ex>m</ex> et min<ex>us</ex> eo.
+                  q<ex>uia</ex> i<ex>n</ex> duo<lb/>bus s<ex>cilicet</ex> sup<ex>er</ex>biuit et
+                  uetitu<ex>m</ex> co<ex>m</ex>medit.<lb/> Serpens. p<ex>ri</ex>us et plus.
+                  q<ex>uia</ex> in<lb/> t<ex>ri</ex>b<ex>us</ex> s<ex>cilicet</ex> i<ex>n</ex>uidit
+                  mentit<ex>us</ex><lb/> est. et decepit. et i<ex>de</ex>o<lb/> tria reddite
+                  s<ex>un</ex>t<lb/> ei m<ex>ale</ex>d<ex>i</ex>c<ex>ti</ex>o<ex>ne</ex>s.</p>
+               <note>cum femine: cum add. int. man. al.</note>
             </div>
             <div type="transcript" corresp="t-cain">
                <p>Chayn agricola dolens sua mun<ex>er</ex>a et no<ex>n</ex> fratris fuisse rep<ex>ro</ex>ba
@@ -4111,40 +4123,6 @@
                   uult<ex>us</ex> pane<ex>m</ex> acq<ex>ui</ex>rit.</p>
             </div>
          </div>    
-         <div type="ms" corresp="cmb-183">
-            <div type="info">
-               <note type="place">Cologny</note>
-               <note type="origin">France or England</note>
-               <note type="date">middle of the 13th century</note>
-               <note type="reading">Agnese Macchiarelli</note>
-            </div>
-            <div type="transcript" corresp="t-adam">
-               <p>Adam i<ex>n</ex> ag<ex>ro</ex> damasceno format<ex>us</ex>. et i<ex>n</ex>
-                  paradisu<ex>m</ex> unde<lb/> .4<ex>or</ex>. flumina oriu<ex>n</ex>t<ex>ur</ex>
-                  tra<ex>n</ex>slat<ex>us</ex> e<ex>st</ex> s<ex>cilicet</ex> gyon. phison.<lb/>
-                  tygris. eufrates. cum. femi<ex>n</ex>e de costa dormientis f<ex>a</ex>c<ex>t</ex>e
-                  eua no<ex>m</ex>i<ex>n</ex>e i<ex>m</ex>po<ex>s</ex>ito sic<ex>ut</ex> et
-                  cet<ex>er</ex>is reb<ex>us</ex>. de<lb/> chr<ex>ist</ex>o et ecc<ex>lesi</ex>a
-                  p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex>. et eidem de comede<ex>n</ex><lb/>do pomo
-                  adq<ex>ui</ex>euiss<ex>et</ex>. p<ex>ro</ex> disco<ex>n</ex>uenien<lb/>cia
-                  nuditatis f<ex>a</ex>c<ex>t</ex>is p<ex>er</ex>yzomatib<ex>us</ex> a<lb/>
-                  d<ex>omi</ex>n<ex>o</ex>. de p<ex>ar</ex>adiso collocatis ch<ex>er</ex>ubim<lb/>
-                  et fla<ex>m</ex>meo gladio p<ex>ost</ex> inc<ex>re</ex>pac<ex>i</ex>o<ex>ne</ex>m
-                  ei<ex>ec</ex><lb/>tus. de t<ex>er</ex>ra maled<ex>i</ex>c<ex>t</ex>a i<ex>n</ex>
-                  sudore uul<lb/>tus pane<ex>m</ex> adq<ex>ui</ex>rit. t<ex>ame</ex>n p<ex>os</ex>tremo
-                  et<lb/> min<ex>us</ex> p<ex>ec</ex>cau<ex>it</ex> q<ex>uia</ex> i<ex>n</ex> uno
-                  s<ex>cilicet</ex> uetit<ex>u</ex>m co<ex>m</ex><lb/>medit. Vn<ex>de</ex>
-                  q<ex>uia</ex> i<ex>n</ex> solo esu p<ex>ec</ex>cau<ex>it</ex>. i<ex>n</ex>
-                  la<lb/>bore sibi q<ex>ue</ex>re<ex>n</ex>di edulii punit<ex>us</ex> est.<lb/>
-                  Mul<ex>ie</ex>r. p<ex>ost</ex> serpe<ex>n</ex>te<ex>m</ex> et min<ex>us</ex> eo.
-                  q<ex>uia</ex> i<ex>n</ex> duo<lb/>bus s<ex>cilicet</ex> sup<ex>er</ex>biuit et
-                  uetitu<ex>m</ex> co<ex>m</ex>medit.<lb/> Serpens. p<ex>ri</ex>us et plus.
-                  q<ex>uia</ex> in<lb/> t<ex>ri</ex>b<ex>us</ex> s<ex>cilicet</ex> i<ex>n</ex>uidit
-                  mentit<ex>us</ex><lb/> est. et decepit. et i<ex>de</ex>o<lb/> tria reddite
-                  s<ex>un</ex>t<lb/> ei m<ex>ale</ex>d<ex>i</ex>c<ex>ti</ex>o<ex>ne</ex>s.</p>
-               <note>cum femine: cum add. int. man. al.</note>
-            </div>
-         </div>
          <div type="ms" corresp="mbs-cgm-564">
                <div type="info">
                   <note type="place">?</note>
