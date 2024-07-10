@@ -1,0 +1,317 @@
+PID;sigla;Version;Variant;title;notbefore;notafter
+lol-390;Lz;1;A1; Linz, Oberösterreichische Landesbibliothek, Hs. 390 (Schiffmann 272);1250.0;1250.0
+won-363;W;1;A1; Wien, Österreichische Nationalbibliothek, Cod. 363;1180.0;1183.0
+lbm-445;Ly;1;A2; Lyon, Bibliothèque Municipale, Ms. 445;1200.0;1299.0
+lol-490;Lz1;1;A2; Linz, Oberösterreichische Landesbibliothek, Hs. 490 (Schiffmann 26);1250.0;1250.0
+mbb-clm-2660;M5;1;A2; München, Bayerische Staatsbibliothek, Clm 2660;1300.0;1324.0
+won-378;W1;1;A2; Wien, Österreichische Nationalbibliothek, Cod. 378;1200.0;1299.0
+won-364;W7;1;A2; Wien, Österreichische Nationalbibliothek, Cod. 364;1312.0;1347.0
+abs-128;Ad;2;A3; Admont, Benediktinerstift, Cod. 128;1225.0;1274.0
+sep-a-x-12;S;2;A3; Salzburg, Erzabtei St. Peter, Benediktinerstift, Bibliothek, a X 12;1200.0;1299.0
+won-12538;W5;2;A3; Wien, Österreichische Nationalbibliothek, Cod. 12538;1250.0;1274.0
+mbb-clm-314;M2;2;A3; München, Bayerische Staatsbibliothek, Clm 314;1250.0;1299.0
+bbr-5554-56;Br1;1;B; Brüssel, Bibliothèque Royale de Belgique, Ms. 5554-56;1200.0;1299.0
+cam-680;Ca;1;B; Cambrai, Bibliothèque Municipale, Ms. 680 (620);1180.0;1224.0
+kha-w-247;Kö;1;B; Köln, Historisches Archiv der Stadt Köln, W 247;1150.0;1199.0
+lbl-add-60628-1;L6;2;E1; London, British Library, Add MS 60628/1;1250.0;1260.0
+lbl-roy-14-b-ix;L7;2;E1; London, British Library, Royal MS 14 B IX;1250.0;1299.0
+npm-m-628;Ny1;2;E1; New York, Pierpont Morgan Library, M.628;1250.0;1299.0
+obl-lat-th-b-1;O6;2;E1; Oxford, Bodleian Library, MS Lat. th. b. 1 (R);1225.0;1274.0
+pen-masson-71;P12;2;E1; Paris , Ecole nationale superieure des Beaux-Arts, ms. Masson 71;1290.0;1300.0
+pfl-lew-e-249a-b;Ph;2;E1; Philadelphia, Free Library, Rare Book Department, Lewis E 249A-B;1280.0;1299.0
+ccc-83;C3;3;E2; Cambridge, Corpus Christi College, MS 83;1210.0;1229.0
+lbl-cot-fau-b-vii;L2;3;E2; London, British Library, Cotton MS Faustina B VII;1208.0;1216.0
+obl-ash-1524;O;3;E2; Oxford, Bodleian Library, MS Ashmole 1524;1200.0;1224.0
+bsb-ham-503;B;1;E3; Berlin, Staatsbibliothek, Ms. Ham. 503;1175.0;1199.0
+cul-ff-3-7;C10;1;E3; Cambridge, University Library, Ff. 3.7;1300.0;1399.0
+obl-laud-270;O3;1;E3; Oxford, Bodleian Library, MS Laud. Misc. 270;1225.0;1249.0
+obl-bod-164;O7;1;E3; Oxford, Bodleian Library, MS Bodl. 164;1275.0;1299.0
+eul-18-db-i-5;Ed;1;E4; Edinburgh, University Library, 18 D.b. I. 5;1200.0;1299.0
+hub-sal-ix-40;H;1;E4; Heidelberg, Universitätsbibliothek, Cod. Sal. IX, 40;1290.0;1309.0
+lbl-roy-4-b-vii;L8;1;E4; London, British Library, Royal MS 4 B VII;1200.0;1299.0
+lbl-roy-8-c-ix;L9;1;E4; London, British Library, Royal MS 8 C IX;1200.0;1299.0
+mrm-mik-6365;Mv;1;E4; Mikulov, Regionální muzeum v Mikulově, MIK 6365;1285.0;1333.0
+nbl-osborn-fa75;Nh;1;E4; New Haven, Yale University, Beinecke Rare Book and Manuscript Library, Osborne fa75;1225.0;1249.0
+occ-159;O1;1;E4; Oxford, Corpus Christi College, MS 159;1200.0;1215.0
+obl-bod-roll-12;O10;1;E4; Oxford, Bodleian Library, MS Bodl. Rolls 12;1325.0;1374.0
+obl-laud-151;O2;1;E4; Oxford, Bodleian Library, MS Laud. Misc. 151;1225.0;1249.0
+cgc-249;C13;1;E5; Cambridge, Gonville and Caius College, MS 249;1464.0;1464.0
+cul-dd-3-56;C14;1;E5; Cambridge, University Library, Dd. 3.56;1400.0;1499.0
+lbl-add-11758;L19;1;E5; London, British Library, Add MS 11758;1400.0;1499.0
+mbb-clm-30015;M8;1;E5; München, Bayerische Staatsbibliothek, Clm 30015;1300.0;1499.0
+mjr-gast-2037;Ma1;1;E5; Manchester, John Rylands Library, Gaster MS 2037;1425.0;1474.0
+pul-scheide-6;Pn;1;E5; Princeton, Princeton University Library, MS Scheide 6;1275.0;1299.0
+whb-25-1-extr;Wf2;1;E5; Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 25.1 Extrav.;1300.0;1399.0
+osj-58;O12;1;E5; Oxford, St. John's College Library, MS 58;1475.0;1499.0
+bun-762;Bc;1;ES1; Barcelona, Biblioteca de la Universitat de Barcelona, Sig. Ms. 762;1300.0;1499.0
+ mne-res-199;Md;1;ES1;Biblioteca Nacional de España;1300;1325
+bbr-1270-71;Br;1;F1; Brüssel, Bibliothèque Royale de Belgique, Ms. 1270-71;1200.0;1299.0
+ccc-437;C5;1;F1; Cambridge, Corpus Christi College, MS 437;1200.0;1299.0
+cnl-29;Ch1;1;F1; Chicago, Newberry Library, MS 29 (66-1827);1350.0;1399.0
+euf-dep-erf-ca-2-108;E;1;F1; Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 108;1267.0;1299.0
+kac-696;K;1;F1; Klosterneuburg, Augustiner Chorherrenstift, Cod. 696;1200.0;1299.0
+lzs-227;Lf;1;F1; Lilienfeld, Zisterzienserstift, Cod. 227;1300.0;1324.0
+mbb-clm-8715;M1;1;F1; München, Bayerische Staatsbibliothek, Clm 8715;1200.0;1233.0
+nbn-viii-c-6;N1;1;F1; Napoli, Biblioteca Nazionale, VIII C 6;1200.0;1299.0
+nbl-mar-26;Nh1;1;F1; New Haven, Yale University, Beinecke Rare Book and Manuscript Library, Marston MS 26;1225.0;1249.0
+obl-auc-d-4-10;O4;1;F1; Oxford, Bodleian Library, MS Auct. D.4.10;1240.0;1250.0
+pbn-lat-5101;P1;1;F1; Paris, Bibliothèque nationale de France, Lat. 5101;1200.0;1299.0
+pbn-lat-297;P10;1;F1; Paris, Bibliothèque nationale de France, Lat. 297;1200.0;1224.0
+pab-i-f-5;Pa1;1;F1; Palermo, Biblioteca centrale della Regione siciliana Alberto Bombace, BCRS, I.F.5;1300.0;1399.0
+vba-vat-lat-1972;V2;1;F1; Città del Vaticano, Biblioteca Apostolica Vaticana, Vat. Lat. 1972;1175.0;1199.0
+ccc-29;C2;1;F1; Cambridge, Corpus Christi College, MS 29;1200.0;1224.0
+aux-145;Ax;1;F2; Auxerre, Bibliothèque Municipale, Ms. 145;1200.0;1224.0
+lun-vlf-4;Ln;1;F2; Leiden, Universiteitsbibliotheek, VLF 4;1250.0;1299.0
+avr-166;Av;2;F3; Avranches, Bibliothèque Municipale, Ms. 166;1300.0;1399.0
+mbb-cgm-1586;M17;2;F3; München, Bayerische Staatsbibliothek, Cgm 1586;1400.0;1510.0
+nbn-viii-c-3;N;2;F3; Napoli, Biblioteca Nazionale, VIII C 3;1250.0;1274.0
+nmm-clo-2002-433;Ny;2;F3; New York, Metropolitan Museum of Art, The Cloisters Collection, 2002.433;1220.0;1239.0
+pbn-lat-17579;P2;2;F3; Paris, Bibliothèque nationale de France, Lat. 17579;1200.0;1225.0
+pbn-lat-15254;P4;2;F3; Paris, Bibliothèque nationale de France, Lat. 15254;1200.0;1299.0
+pbn-lat-15467;P8;2;F3; Paris, Bibliothèque nationale de France, Lat. 15467;1270.0;1270.0
+rbn-sess-160;R;2;F3; Roma, Biblioteca Nazionale Centrale, Ms. Sessoriano 160;1275.0;1324.0
+fbm-plut-15-11;F1;2;F3; Firenze, Biblioteca Medicea Laurenziana, Plut. 15.11;1300.0;1399.0
+lbl-add-41600;L20;2;F3a; London, British Library, Add MS 41600;1454.0;1460.0
+lbm-863;Ly1;2;F3a; Lyon, Bibliothèque Municipale, Ms. 863;1200.0;1224.0
+mbe-lat-693;Mo;2;F3a; Modena, Biblioteca Estense Universitaria, Estense, Lat. 693 = alfa.L.2.2;1501.0;1600.0
+vbb-343;Vi;2;F3a; Vicenza, Biblioteca Civica Bertoliana, Ms. 343 (G. 3. 9. 23);1275.0;1299.0
+nbm-237;Nc;2;F3a; Nancy, Bibliothèque Municipale, Ms. 237;1200.0;1299.0
+chl-typ-216;Cm;2;F3b; Cambridge, Harvard University, Houghton Library, Ms. Typ 216;1200.0;1250.0
+pbs-1212;P11;2;F3b; Paris, Bibliothèque Sainte-Geneviève, Ms. 1212;1275.0;1299.0
+vba-pal-lat-963;V7;2;F3b; Città del Vaticano, Biblioteca Apostolica Vaticana, Pal. Lat. 963;1400.0;1499.0
+zzb-rh-193;Z;2;F3b; Zürich, Zentralbibliothek, Rh. 193;1400.0;1499.0
+lca-9-58;L14;2;F3b; London, College of Arms, MS 9/58;1300.0;1399.0
+cmb-183;Co;;F4; Cologny, Fondation Martin Bodmer, Cod. 183;1225.0;1274.0
+npm-m-367;Ny2;;F4; New York, Pierpont Morgan Library, Ms M.367;1275.0;1299.0
+pba-1234;P13;;F5; Paris, Bibliothèque de l'Arsenal, Ms. 1234;1342.0;1399.0
+pfl-lew-e-72;Ph1;;F5; Philadelphia, Free Library, Rare Book Department, Lewis E 72;1334.0;1350.0
+vba-vat-lat-3782;V3;;F5; Città del Vaticano, Biblioteca Apostolica Vaticana, Vat. Lat. 3782;1275.0;1299.0
+pul-244;Pn1;;F6; Princeton, Princeton University Library, Princeton MS 244;1340.0;1359.0
+vba-vat-lat-3783;V6;;F6; Città del Vaticano, Biblioteca Apostolica Vaticana, Vat. Lat. 3783;1300.0;1399.0
+fub-36a;Fb;1;G1; Freiburg im Breisgau, Universitätsbibliothek, Hs. 36a;1250.0;1299.0
+mbb-clm-22239;M3;1;G1; München, Bayerische Staatsbibliothek, Clm 22239;1279.0;1279.0
+euf-dep-erf-ca-2-055;E1;1;G2; Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 055;1300.0;1349.0
+won-1506;W3;1;G2; Wien, Österreichische Nationalbibliothek, Cod. 1506;1200.0;1299.0
+lks-9-2-29;La;1;G3; Lawrence, University of Kansas, Kenneth Spencer Research Library, MS 9/2:29;1290.0;1309.0
+mbb-clm-9711;M18;1;G3; München, Bayerische Staatsbibliothek, Clm 9711;1400.0;1499.0
+mbb-clm-19414;M6;1;G3; München, Bayerische Staatsbibliothek, Clm 19414;1330.0;1340.0
+nsb-cent-i-7;Nü;1;G3; Nürnberg, Stadtbibliothek, Cent. I, 7;1401.0;1449.0
+acn-28;As;1;G3; Assisi, Chiesa Nuova, Ms. 28;1300.0;1325.0
+ass-2-48;A;1;G3a; Augsburg, Staats- und Stadtbibliothek, 2° Cod. 48;1300.0;1324.0
+pbn-lat-1660;P15;1;G3a; Paris, Bibliothèque nationale de France, Lat. 1660;1400.0;1499.0
+obl-lyell-71;O8;1;G3a; Oxford, Bodleian Library, MS Lyell 71;1290.0;1309.0
+bsm-kup-78-d-1;B3;;G4; Berlin, Staatliche Museen, Kupferstichkabinett, Ms. 78 D.1;1300.0;1399.0
+etb-960;Ei;;G4; Eisleben, Turmbibliothek der Andreaskirche, Ms. 960;1461.0;1487.0
+mbb-clm-5599;M11;;G4; München, Bayerische Staatsbibliothek, Clm 5599;1416.0;1416.0
+bsb-theol-lat-fol-7;B7;;G5; Berlin, Staatsbibliothek, Ms. theol. lat. fol. 7 (Rose 257);1446.0;1446.0
+bsb-theol-lat-fol-204;B8;;G5; Berlin, Staatsbibliothek, Ms. theol. lat. fol. 204;1400.0;1499.0
+gou-4-theol-293;Gö1;;G5b; Göttingen, Universität, 4° Cod. Ms. theol. 293;1467.0;1467.0
+mbb-cgm-564;M13;;G5b; München, Bayerische Staatsbibliothek, Cgm 564;1455.0;1455.0
+mbb-clm-18365;M12;;G6; München, Bayerische Staatsbibliothek, Clm 18365;1451.0;1453.0
+sub-m-ii-375;S3;;G6; Salzburg, Universitätsbibliothek, M II 375;1473.0;1479.0
+hgw-xiii-777;Ha1;;G7; Hannover, Gottfried Wilhelm Leibniz Bibliothek - Niedersächsische Landesbibliothek, Ms XIII, 777;;
+bsb-lat-fol-847;B5;;G8; Berlin, Staatsbibliothek, Ms. lat. fol. 847;1468.0;1468.0
+fsu-inc-quart-706a;Fm1;;G8; Frankfurt am Main, Stadt- und Universitätsbibliothek, Inc. quart 706a;1475.0;1499.0
+lbl-add-21219;L18;;G8; London, British Library, Add MS 21219;1400.0;1499.0
+mbb-clm-16223;M21;;G8; München, Bayerische Staatsbibliothek, Clm 16223;1400.0;1499.0
+sub-m-ii-371;S2;;G8; Salzburg, Universitätsbibliothek, M II 371;1458.0;1458.0
+swl-theol-phil-2-100;St1;;G8; Stuttgart, Württembergische Landesbibliothek, Cod. theol. et phil. 2° 100;1462.0;1462.0
+swl-hb-iii-39;St3;;G8; Stuttgart, Württembergische Landesbibliothek, HB III 39;1460.0;1490.0
+tad-141;Tr;;G8; Trento, Archivio diocesano tridentino, Biblioteca capitolare, Ms.141;1440.0;1460.0
+won-3295;W10;;G8; Wien, Österreichische Nationalbibliothek, Cod. 3295;1456.0;1456.0
+won-12449;W12;;G8; Wien, Österreichische Nationalbibliothek, Cod. 12449;1480.0;1480.0
+mjr-72;Ma;1;I1; Manchester, John Rylands Library, MS 72;1200.0;1399.0
+skv-vadslg-330;Sg;1;I1; St. Gallen, Kantonsbibliothek Vadiana, VadSlg Ms 330;1200.0;1299.0
+vba-pal-lat-1723;V;1;I1; Città del Vaticano, Biblioteca Apostolica Vaticana, Pal. Lat. 1723;1200.0;1249.0
+vba-ross-567;V1;1;I1; Città del Vaticano, Biblioteca Apostolica Vaticana, Ross. 567;1200.0;1249.0
+vbb-342;Vi1;1;I1; Vicenza, Biblioteca Civica Bertoliana, Ms. 342 (G. 3. 9. 22);1275.0;1324.0
+wbu-i-f-103;Wr1;1;I1; Wroclaw, Biblioteka Uniwersytecksa, I F 103 (Ms. 108);1300.0;1350.0
+fbn-con-sop-g-iii-451;F;1;I1; Firenze, Biblioteca Nazionale Centrale, Conv. soppr. G.III.451;1200.0;1299.0
+fbr-ricc-236;F2;1;I1; Firenze, Biblioteca Riccardiana, Ricc. 236;1226.0;1250.0
+bub-cl-113;Ba1;5;I2; Basel, Universitätsbibliothek, Comites Latentes 113;1300.0;1399.0
+fbm-acq-779;F5;5;I2; Firenze, Biblioteca Medicea Laurenziana, Acq. e Doni 779;1400.0;1499.0
+npm-m-689;Ny3;5;I2; New York, Pierpont Morgan Library, M.689;1300.0;1324.0
+rbs-4254;R1;5;I2; Roma, Biblioteca Casanatense, Ms. 4254;1320.0;1340.0
+drm-kb-74-j-5;Dh1;6;N; Den Haag, Koninklijke Bibliotheek, Ms. 74 J 5;;
+lub-apel-1;Le1;6;N; Leipzig, Universitätsbibliothek, Ms. Apel 1;1400.0;1449.0
+pbn-lat-16020;P14;6;N; Paris, Bibliothèque nationale de France, Lat. 16020;;
+wha-oct-111;We1;6;N; Weimar, Herzogin Anna Amalia Bibliothek, Oct. 111;1425.0;1449.0
+dul-190;Da;4;S; Darmstadt, Universitäts- und Landesbibliothek Darmstadt, Hs 190;1434.0;1466.0
+fsu-germ-quart-13;Fm;4;S; Frankfurt am Main, Stadt- und Universalbibliothek, Ms. germ. quart 13;1434.0;1479.0
+vba-pal-lat-143;V8;4;S; Città del Vaticano, Biblioteca Apostolica Vaticana, Pal. Lat. 143;1460.0;1470.0
+whb-305a-bla;Wf4;4;S; Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 305a Blank.;1475.0;1499.0
+zzb-car-c-184;Z1;4;S; Zürich, Zentralbibliothek, Car. C 184;1400.0;1499.0
+ssb-605;Sg1;4;S; St. Gallen, Stiftsbibliothek, Cod. 605;1465.0;1465.0
+ass-2-521;A1;;; Augsburg, Staats- und Stadtbibliothek, 2° Cod. 521;1425.0;1472.0
+asa-sch-121;A2;;; Augsburg, Stadtarchiv, Schätze 121;1460.0;1479.0
+akb-wettf-9;Aa;;; Aarau, Aargauer Kantonsbibliothek, Ms. WettF 9;1325.0;1349.0
+akb-wettf-26-7;Aa1;;; Aarau, Aargauer Kantonsbibliothek, Ms. WettF 26:7;1398.0;1424.0
+anl-brog-ii-51;Ab;;; Aberystwyth, National Library of Wales, Brogyntyn Ms. II. 51;1250.0;1299.0
+anl-brog-ii-52;Ab1;;; Aberystwyth, National Library of Wales, Brogyntyn Ms. II. 52;1461.0;1466.0
+abs-583;Ad1;;; Admont, Benediktinerstift, Cod. 583;1435.0;1435.0
+abs-fr-b2;Ad2;;; Admont, Benediktinerstift, Fragm. B2;1300.0;1399.0
+abs-fr-b1;Ad3;;; Admont, Benediktinerstift, Fragm. B1;1200.0;1299.0
+ale-66;Al;;; Alençon, Bibliothèque Municipale, 66;1200.0;1299.0
+ale-98;Al1;;; Alençon, Bibliothèque Municipale, Ms. 98;1200.0;1299.0
+ami-1262;Am;;; Amiens, Bibliothèque Municipale, Ms. 1262;1300.0;1399.0
+aux-146;Ax1;;; Auxerre, Bibliothèque Municipale, Ms. 146;1400.0;1499.0
+bsb-lat-fol-141;B1;;; Berlin, Staatsbibliothek, Ms. lat. fol. 141;1200.0;1233.0
+bsb-theol-lat-fol-93;B10;;; Berlin, Staatsbibliothek, Ms. theol. lat. fol. 93;1400.0;1499.0
+bsb-lat-fol-24;B2;;; Berlin, Staatsbibliothek, Ms. lat. fol. 24;1300.0;1399.0
+bsb-lat-fol-325;B4;;; Berlin, Staatsbibliothek, Ms. lat. fol. 325;1433.0;1433.0
+bsb-theol-lat-fol-64;B6;;; Berlin, Staatsbibliothek, Ms. theol. lat. fol. 64 (Rose 243);1400.0;1499.0
+bsb-theol-lat-fol-156;B9;;; Berlin, Staatsbibliothek, Ms. theol. lat. fol. 156;1300.0;1349.0
+bub-cl-273;Ba;;; Basel, Universitätsbibliothek, Comites Latentes 273;1250.0;1299.0
+bbc-fv2;Bi;;; Brescia, Biblioteca Civica Queriniana di Brescia, ms. F.V.2;1400.0;1699.0
+bkk-86;Bl;;; Bratislava, Kapitulskà Kriznica, Ms. 86 [84];1400.0;1499.0
+bwa-w-796;Bm;;; Baltimore, Walters Art Museum, W. 796;1200.0;1224.0
+bsu-mbs-0121;Bn;;; Bremen, Staats- und Universitätsbibliothek Bremen, msb 0121;1300.0;1399.0
+bas-4;Bo;;; Bologna, Archivio storico della Provincia di Cristo Re dei Frati Minori dell'Emilia Romagna, ms. 4;1200.0;1299.0
+bbu-1761;Bo1;;; Bologna, Biblioteca Universitaria, Ms. 1761;1300.0;1324.0
+bbr-270;Br2;;; Brüssel, Bibliothèque Royale de Belgique, Ms. 270;1340.0;1340.0
+bbr-1485-1501;Br3;;; Brüssel, Bibliothèque Royale de Belgique, Ms. 1485-1501;1300.0;1399.0
+bbr-9174;Br4;;; Brüssel, Bibliothèque Royale de Belgique, Ms. 9174;1300.0;1399.0
+bra-143;Bs;;; Braunschweig, Stadtbibliothek, Ms. 143;1400.0;1499.0
+bnm-237;Bu;;; Budapest, National Museum, Ms. 237;1300.0;1399.0
+bnm-127;Bu1;;; Budapest, National Museum, Ms. 127;1180.0;
+bps-e-11;Bx;;; Bressone, Priesterseminar/Seminario Maggiore, Cod. E 11 (olim 100);1250.0;1299.0
+ctc-b-15-5;C;;; Cambridge, Trinity College, B.15.5;1194.0;1194.0
+cul-dd-1-16;C1;;; Cambridge, University Library, Dd. 1.16;1175.0;1200.0
+ccc-503;C11;;; Cambridge, Corpus Christi College, MS 503;1400.0;1499.0
+cec-yy-3-17;C12;;; Cambridge, Emmanuel College, Yy. 3.17;1400.0;1499.0
+cul-dd-8-12;C15;;; Cambridge, University Library, Dd. 8.12;1400.0;1499.0
+ccc-313;C16;;; Cambridge, Corpus Christi College, MS 313;1100.0;1299.0
+cch-5;C4;;; Cambridge, Christ's College, MS 5;1200.0;1299.0
+cec-iii-2-26;C6;;; Cambridge, Emmanuel College, III. 2.26;1200.0;1299.0
+cfm-253;C7;;; Cambridge, Fitzwilliam Museum, MS 253;1200.0;1299.0
+ctc-b-15-4;C8;;; Cambridge, Trinity College, B 15.4;1200.0;1299.0
+cul-add-4081;C9;;; Cambridge, University Library, Add 4081;1290.0;1309.0
+cnl-22;Ch;;; Chicago, Newberry Library, MS 22;1190.0;1209.0
+cma-1973.5;Cl;;; Cleveland, Museum of Art, 1973.5;1210.0;1229.0
+cma-1954.388;Cl1;;; Cleveland, Museum of Art, 1954.388;1200.0;1249.0
+dtc-117;D;;; Dublin, Trinity College, MS 117;1200.0;1249.0
+dtc-41;D1;;; Dublin, Trinity College, MS 41;1300.0;1349.0
+rmw-10-a-15;Dh;;; Den Haag, Rijksmuseum Meermanno-Westreenianum, Ms 10 A 15;1450.0;1455.0
+drm-kb-72-a-11;Dh2;;; Den Haag, Koninklijke Bibliotheek, Ms. 72 A 11 (697);1400.0;1499.0
+dbm-634;Di;;; Dijon, Bibliothèque Municipale, Ms. 634;1200.0;1224.0
+dbm-43;Di1;;; Dijon, Bibliothèque Municipale, Ms. 43;1300.0;1499.0
+dcl-b-ii-33;Du;;; Durham, Cathedral Library, B.II.33;1100.0;1299.0
+das-add-767;Du1;;; Durham, Durham University Library, Archives and Special Collections, Add. 767;1200.0;1224.0
+euf-dep-erf-ca-2-079;E2;;; Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 079;1325.0;1374.0
+enl-adv-34-4-16-i;Ed1;;; Edinburgh, National Library of Scotland Adv., MS 34.4.16(i);1200.0;1299.0
+ecl-96-bl-1-5;Et;;; Eton, College Library, 96 bl. 1.5;1244.0;1244.0
+fbm-plut-20-56;F3;;; Firenze, Biblioteca Medicea Laurenziana, Plut. 20.56;1225.0;1274.0
+fbn-magl-xxii-22;F4;;; Firenze, Biblioteca Nazionale Centrale, Magl. XXII.22;1450.0;1450.0
+fbn-con-sop-f-iv-733;F6;;; Firenze, Biblioteca Nazionale Centrale, Conv. soppr. F.IV.733;1200.0;1399.0
+feb-8;Fb1;;; Freiburg im Breisgau, Erzbischöfliche Bibliothek Freiburg, Cod. ms. 8;1300.0;1399.0
+gub-182;G;;; Graz, Universitätsbibliothek, Ms. 182;1308.0;1308.0
+gub-163;G1;;; Graz, Universitätsbibliothek, Ms. 163;1300.0;1399.0
+gmb-f-202;Gd;;; Gdansk, Marienbibliothek, Ms F 202;1400.0;1499.0
+gac-hebr-17;Gi;;; Girona, Arxiu Capitular, Hebr. no. 17;1275.0;1324.0
+gfl-cha-a-4;Go;;; Gotha, Forschungs- und Landesbibliothek, Chart. A 4;1427.0;1427.0
+gou-luneb-17;Gö;;; Göttingen, Universität, Luneb. 17;1400.0;1499.0
+gfl-cha-a-16;Go1;;; Gotha, Forschungs- und Landesbibliothek, Chart. A 16;1434.0;1466.0
+gbm-10;Gr;;; Grenoble, Bibliothèque Municipale, Ms. 10 Rés.;1200.0;1299.0
+hub-pal-germ-110;H1;;; Heidelberg, Universitätsbibliothek, Cod. Pal. germ. 110;1490.0;1509.0
+hsb-mag-27;Ha;;; Hannover, Stadtbibliothek, Ms. Mag. 27;1400.0;1499.0
+hsu-petri-36;Hh;;; Hamburg, Staats- und Universitätsbibliothek, Petri 36;1415.0;1415.0
+hsu-theol-1052;Hh1;;; Hamburg, Staats- und Universitätsbibliothek, Theol. 1052;1425.0;1499.0
+hsu-theol-2029;Hh2;;; Hamburg, Staats- und Universitätsbibliothek, Theol. 2029;1390.0;1409.0
+iut-9;I;;; Innsbruck, Universitäts- und Landesbibliothek Tirol, Cod. 9;1400.0;1499.0
+kbb-xxxi-b-6;Kl;;; Klagenfurt, Bischöfliche Bibliothek, Cod. XXXI b 6;1425.0;1474.0
+kus-frl-318;Kö1;;; Köln, Universitäts- und Stadtbibliothek, FR L 318;1200.0;1224.0
+kha-w-385;Kö2;;; Köln, Historisches Archiv der Stadt Köln, W 385;1400.0;1499.0
+kbs-cc-243;Kr;;; Kremsmünster, Benediktinerstift, CC 243;1325.0;1349.0
+lbl-add-54230;L;;; London, British Library, Add MS 54230;1175.0;1199.0
+lbl-har-658;L1;;; London, British Library, Harley MS 658;1175.0;1299.0
+lbl-add-24025;L10;;; London, British Library, Add MS 24025;1200.0;1299.0
+llp-499;L11;;; London, Lambeth Palace, Ms. 499;1200.0;1299.0
+lbl-add-14819;L12;;; London, British Library, Add MS 14819;1290.0;1309.0
+lbl-l-roll-1;L13;;; London, British Library, Lansdowne Roll 1;1300.0;1399.0
+lbl-cot-tit-d-iii;L15;;; London, British Library, Cotton MS Titus D III;1300.0;1399.0
+lbl-add-17358;L16;;; London, British Library, Add MS 17358;1431.0;1431.0
+lbl-roy-1-b-x;L17;;; London, British Library, Royal MS 1 B X;1400.0;1499.0
+lbl-add-61725;L21;;; London, British Library, Add MS 61725;1200.0;1224.0
+lbl-cot-vit-c-iii;L3;;; London, British Library, Cotton MS Vitellius C III;1200.0;1224.0
+lbl-har-627;L4;;; London, British Library, Harley MS 627;1225.0;1249.0
+lbl-cot-roll-xiv-12;L5;;; London, British Library, Cotton Roll XIV 12;1225.0;1249.0
+lub-1314;Le;;; Leipzig, Universitätsbibliothek, Ms. 1314;1275.0;1324.0
+ler-k-iii-211;Li;;; Lindau, Ehemals Reichsstädtische Bibliothek, Druck K III 211;1300.0;1320.0
+lun-vlf-31;Ln1;;; Leiden, Universiteitsbibliotheek, VLF 31;1274.0;1299.0
+lrb-theol-fol-6;Lü;;; Lüneburg, Ratsbücherei, Theol. Fol. 6;1200.0;1224.0
+lnm-12017;Lv;;; Liverpool, National Museum and Galleries on Merseyside, MS 12017;1200.0;1300.0
+lnm-12012;Lv1;;; Liverpool, National Museum and Galleries on Merseyside, MS 12012;1180.0;
+mbb-clm-10182;M;;; München, Bayerische Staatsbibliothek, Clm 10182;1200.0;1224.0
+mbb-clm-8201;M10;;; München, Bayerische Staatsbibliothek, Clm 8201;1414.0;1415.0
+mbb-clm-28173;M14;;; München, Bayerische Staatsbibliothek, Clm 28173;1455.0;1458.0
+mbb-cgm-252;M15;;; München, Bayerische Staatsbibliothek, Cgm 252;1455.0;1477.0
+mbb-clm-28514;M16;;; München, Bayerische Staatsbibliothek, Clm 28514;1468.0;1468.0
+mbb-clm-12705;M19;;; München, Bayerische Staatsbibliothek, Clm 12705;1400.0;1499.0
+mbb-clm-14969;M20;;; München, Bayerische Staatsbibliothek, Clm 14969;1400.0;1499.0
+mbb-clm-9665;M4;;; München, Bayerische Staatsbibliothek, Clm 9665;1300.0;1399.0
+mlm-4-989;M7;;; München, Ludwig-Maximilians-Universität, Universitätsbibliothek, 4° Cod. ms. 989;1300.0;1399.0
+mlm-2-88;M9;;; München, Ludwig-Maximilians-Universität, Universitätsbibliothek, 2° Cod. ms. 88;1413.0;1413.0
+mbt-triv-489;Mi;;; Milano, Biblioteca Trivulziana, Triv. 489;1227.0;1227.0
+mbn-ad-xii-53;Mi1;;; Milano, Biblioteca nazionale Braidense, Manoscritti, AD XII.53;1400.0;1499.0
+mbn-ae-xii-20;Mi2;;; Milano, Biblioteca nazionale Braidense, Manoscritti, AE XI.20;1200.0;1299.0
+mvb-sp-ii-199;Mi3;;; Milano, Veneranda Biblioteca Ambrosiana, S.P.II.199;1400.0;1499.0
+mbs-1708;Mk;;; Melk, Benediktinerstift, Cod. 1708 (929, R 14);1350.0;1399.0
+mbm-89;Ms;;; Marseille, Bibliothèque Municipale, Ms. 89 (Fa 21);1300.0;1499.0
+nbl-1183;Nh2;;; New Haven, Yale University, Beinecke Rare Book and Manuscript Library, Beinecke MS 1183;1300.0;1350.0
+npm-m-751;Ny4;;; New York, Pierpont Morgan Library, M.751;1300.0;1310.0
+obl-bar-53-r;O11;;; Oxford, Bodleian Library, MS Barlow 53 (R);1420.0;1430.0
+obl-fair-13;O5;;; Oxford, Bodleian Library, MS Fairfax 13;1225.0;1274.0
+obl-raw-c-563;O9;;; Oxford, Bodleian Library, MS Rawl. C. 563;1290.0;1309.0
+oko-o-53;Ot;;; Ottobeuren, Kloster Ottobeuren, Ms. O. 53;1450.0;1499.0
+pbn-lat-14435;P;;; Paris, Bibliothèque nationale de France, Lat. 14435;1200.0;1299.0
+pbn-naf-11198;P16;;; Paris, Bibliothèque nationale de France, NAF 11198;1200.0;1299.0
+pbm-305;P3;;; Paris, Bibliothèque Mazarine, Ms. 305;1200.0;1299.0
+pbn-lat-10431;P5;;; Paris, Bibliothèque nationale de France, Lat. 10431;1235.0;1246.0
+pbn-lat-15637;P6;;; Paris, Bibliothèque nationale de France, Lat. 15637;1200.0;1299.0
+pbn-nal-836;P7;;; Paris, Bibliothèque nationale de France, NAL 836;1240.0;1240.0
+pbn-lat-3438;P9;;; Paris, Bibliothèque nationale de France, Lat. 3438;1225.0;1274.0
+pab-i-f-10;Pa;;; Palermo, Biblioteca centrale della Regione siciliana Alberto Bombace, BCRS, I.F.10;1275.0;1325.0
+pkc-1066;Ph2;;; Philadelphia, University of Pennsylvania, Kislak Center for Special Collections, MS Roll 1066;1461.0;1499.0
+pds-nd;Pi;;; Pisa, Soprintendenza per i Beni Ambientali, Architettonici, Artistici e Storici;1200.0;1299.0
+pgs-215;Po;;; Pommersfelden, Gräflich Schönbornsche Schlossbibliothek, Cod. 215;1323.0;1356.0
+pgs-321;Po1;;; Pommersfelden, Gräflich Schönbornsche Schlossbibliothek, Cod. 321;1180.0;
+pnk-iii-e-5;Pr;;; Praha, Národní Knihova, III.E.5;1300.0;1350.0
+pnk-xiv-a-8;Pr1;;; Praha, Národní Knihovna, XIV.A.8;;
+pnk-xxiii-f-204;Pr2;;; Praha, Národní Knihova, XXIII.F.204;1420.0;1500.0
+rsa-65-19;Rz;;; Retz, Stadtarchiv, Cod. 65/19;1450.0;1469.0
+sla-rp-226;S1;;; Salzburg, Landesarchiv, RP 226;1300.0;1399.0
+scl-60;Sa;;; Salisbury, Cathedral Library, Ms. 60;1200.0;1299.0
+sss-24;Sb;;; Shrewsbury, Shrewsbury School, MS 24;1180.0;1299.0
+hhb-fr-23;Sh;;; s´-Heerenberg, Huis Bergh, Ms. fr. 23 (Inv.No. 214);1270.0;1289.0
+sps-cpl-158;Sl;;; Schlägl, Prämonstratenserstift, Cpl. 158 (Vielhaber-Indra 9);1200.0;1399.0
+sdb-f-20;Ss;;; Strängnas, Domkyrkobiblioteket, Ms. F 20;1300.0;1399.0
+swl-theol-phil-2-122;St;;; Stuttgart, Württembergische Landesbibliothek, Cod. theol. et phil. 2° 122;1459.0;1459.0
+swl-hb-v-90;St2;;; Stuttgart, Württembergische Landesbibliothek, HB V 90;1476.0;1478.0
+tbm-42;T;;; Tours, Bibliothèque Municipale, Ms. 42;1200.0;1299.0
+tna-v-325;Tg;;; Tongerlo, Norbertijnenabdij Archief, Sectie V, nr. 325;1473.0;
+tbu-rps-75-iii;Tn;;; Torun, Biblioteka Uniwersytecksa, Rps 75/III;1230.0;1320.0
+tbv-nd;To;;; Tournai, Bibliothèque de Ville;1180.0;
+uub-c-129;U;;; Uppsala, Universitetsbiblioteket, Ms. C 129;1200.0;1299.0
+uun-261;Ut;;; Utrecht, Universiteitsbibliotheek, Ms 261 (3.C.15);1475.0;1499.0
+vba-vat-lat-13015;V4;;; Città del Vaticano, Biblioteca Apostolica Vaticana, Vat. Lat. 13015;1275.0;1299.0
+vba-bar-lat-9925;V5;;; Città del Vaticano, Biblioteca Apostolica Vaticana, Barb. Lat. 9925;1300.0;1399.0
+vbm-385;Va;;; Valenciennes, Bibliothèque Municipale, Ms. 385;1200.0;1399.0
+vbc-fp-nd;Ve;;; Vercelli, Biblioteca Capitolare, Rotoli figurati, 3;1250.0;1299.0
+won-3332;W11;;; Wien, Österreichische Nationalbibliothek, Cod. 3332;1448.0;1448.0
+won-3294;W13;;; Wien, Österreichische Nationalbibliothek, Cod. 3294;1400.0;1499.0
+wdk-140-110;W14;;; Wien, Dominikanerkonvent, Cod. 140/110;1400.0;1499.0
+won-813;W2;;; Wien, Österreichische Nationalbibliothek, Cod. 813;1200.0;1299.0
+won-1548;W4;;; Wien, Österreichische Nationalbibliothek, Cod. 1548;1200.0;1399.0
+won-435;W6;;; Wien, Österreichische Nationalbibliothek, Cod. 435;1310.0;1310.0
+won-505;W8;;; Wien, Österreichische Nationalbibliothek, Cod. 505;1300.0;1349.0
+won-4535;W9;;; Wien, Österreichische Nationalbibliothek, Cod. 4535;1402.0;1402.0
+wha-fol-70;We;;; Weimar, Herzogin Anna Amalia Bibliothek, Fol. 70;1225.0;1274.0
+whb-guelf-39-1-aug-2;Wf;;; Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 39.1 Aug. 2°;1200.0;1399.0
+whb-305-bla;Wf1;;; Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 305 Blank.;1200.0;1399.0
+wha-guelf-360-helm;Wf3;;; Wolfenbüttel, Herzog August Bibliothek, Cod. Guelf. 360 Helmst.;1475.0;1499.0
+wwc-14b;Wi;;; Winchester, Winchester College, MS 14B;1200.0;1299.0
+wcl-342;Wo;;; Worcester, Cathedral Library, Ms. 342;1225.0;1274.0
+wbu-i-f-102;Wr;;; Wroclaw, Biblioteka Uniwersytecksa, I F 102 (Ms. 107);1200.0;1250.0
+yml-add-256;Y;;; York, Minster Library, Add. 256;1375.0;1399.0
+yml-xvi-q-14;Y1;;; York, Minster Library, XVI.Q.14;1250.0;1299.0
+zzb-a-135;Z2;;; Zürich, Zentralbibliothek, Ms. A 135;1400.0;1499.0
