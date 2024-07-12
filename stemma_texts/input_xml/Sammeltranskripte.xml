@@ -4289,6 +4289,52 @@
                   terra maledicta insudore uultus panem acquisivit</p>
             </div>
          </div>
+         <div type="ms" corresp="mne-res-199">
+            <div type="info">
+               <note type="place">Biblioteca Nacional de España</note>
+               <note type="origin">South France</note>
+               <note type="date">1300-1325</note>
+               <note type="reading">Lukas Schievelbusch</note>
+            </div>
+            <div type="transcript" corresp="t-adam">
+               <p>Adam in agro damasceno format<ex>us</ex> et i<ex>n</ex> p<ex>ar</ex>adi<lb/>sum
+                  unde .iiiior. flumi<ex>n</ex>a oriu<ex>n</ex>tur t<ex>ra</ex>nslat<ex>us</ex>.
+                     cu<ex>m</ex> fe<lb/>mine de costa dormie<ex>n</ex>tis f<ex>a</ex>c<ex>t</ex>e
+                  nomine sicut et cet<ex>er</ex>is <lb/> rebus imposito de chr<ex>ist</ex>o et
+                     ecc<ex>les</ex>ia p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex> et eidem <lb/> de
+                  comedendo pomo acquieuisset . p<ex>ro</ex> disco<ex>n</ex>uenien<lb/>tiam
+                  nuditatis factis p<ex>er</ex>izomatib<ex>us</ex> a domino <lb/> de
+                  p<ex>ar</ex>adiso collocatis cherubin et fla<ex>m</ex>e<ex>o</ex>
+                  <lb/>gladio post increpatione<ex>m</ex> abiectus <lb/> de t<ex>er</ex>ra maledicta
+                  insudorem uult<ex>us</ex>
+                  <lb/>panem acquirit.</p>
+            </div>
+         </div>
+         <div type="ms" corresp="uub-c-129">
+            <div type="info">
+               <note type="place">Uppsala University Library</note>
+               <note type="origin">?</note>
+               <note type="date">13th century</note>
+               <note type="reading">Patrick Sahle, Lukas Schievelbusch</note>
+            </div>
+            <div type="transcript" corresp="t-adam">
+               <p>ada<ex>m</ex> i<ex>n</ex> ca<ex>m</ex>po damasceno for<ex>ma</ex>t<ex>us</ex> et
+                     i<ex>n</ex> p<ex>ar</ex>adisu<ex>m</ex> un<ex>de</ex> quattuor
+                     flu<ex>m</ex>i<ex>n</ex>a oriu<ex>n</ex>t<ex>ur</ex>
+                  <lb/>t<ex>ra</ex>nslat<ex>us</ex> cu<ex>m</ex> fe<ex>m</ex>i<ex>n</ex>e de costa
+                     dormie<ex>n</ex>tis f<ex>a</ex>c<ex>t</ex>e no<ex>m</ex>i<ex>n</ex>e
+                     sic<ex>ut</ex> et ce<ex>ter</ex>is reb<ex>us</ex>
+                  <lb/>i<ex>m</ex>posito de chr<ex>ist</ex>o et eccl<ex>es</ex>ia
+                     p<ex>ro</ex>ph<ex>et</ex>ass<ex>et</ex> et ei de comede<ex>n</ex>do pomo
+                     adq<ex>ui</ex>e<lb/>uiss<ex>et</ex> p<ex>ro</ex>
+                     disco<ex>n</ex>ue<ex>n</ex>ie<ex>n</ex>tia nuditatis f<ex>a</ex>c<ex>t</ex>is
+                     p<ex>er</ex>izomatib<ex>us</ex> a d<ex>omi</ex>no de p<ex>ar</ex>a<lb/>diso
+                  collocatis cherubin et fla<ex>m</ex>meo gladio p<ex>ost</ex>
+                     i<ex>n</ex>c<ex>re</ex>pat<ex>i</ex>o<ex>ne</ex>m abi<ex>ec</ex>t<ex>us</ex>
+                  <lb/>de t<ex>er</ex>ra maled<ex>i</ex>c<ex>t</ex>a i<ex>n</ex>sudore
+                     uult<ex>us</ex> pane<ex>m</ex> adq<ex>ui</ex>rit</p>
+            </div>
+         </div>
       </body>
    </text>
 </TEI>
