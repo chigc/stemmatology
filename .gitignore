@@ -15,3 +15,6 @@ stemma_texts/"cain20.tree"
 /stemma_texts/txt
 *.txt
 /stemma_texts/txt
+.DS_Store
+.ipynb_checkpoints
+/stemma_texts/input_xml/.ipynb_checkpoints
