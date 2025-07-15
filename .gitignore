@@ -13,7 +13,6 @@ stemma_texts/.DS_Store
 .DS_Store
 stemma_texts/"cain20.tree"
 /stemma_texts/txt
-*.txt
 /stemma_texts/txt
 .DS_Store
 .ipynb_checkpoints
